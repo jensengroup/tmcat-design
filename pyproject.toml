@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = []
+
+[project]
+name = "suzuki"
+version = "1.0"
+description = "Catalyst Design for Suzuki Reaction"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    'numpy',
+    'submitit',
+    'tabulate',
+    'networkx',
+    'hide-warnings',
+    'tooltoad @ git+https://github.com/juius/tool-toad.git@1.0.0#egg=tooltoad',
+    'catalystGA @ git+https://github.com/juius/catalystGA.git@0.1#egg=catalystGA',
+]

@@ -1,0 +1,774 @@
+=========================================================================================
+                                      Generation 16                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)N1                 0.0971        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3NC=C(F)CN3)=C(Cl)N2)N1                   0.0733        
+CC1=C(C2=C(Cl)N[C](->[Ag+]<-[C]3[N-]C(N4C=C(Cl)CC4)=C(Cl)N3)[N-]2)N[C]N1   0.0395        
+ClC1=CN(C2[N-][C](->[Ag+]<-[C]3NC(Cl)=C(C4=C(Cl)N[C]N4)N3)NC(Cl)N2)CCN1    0.0083        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2NC(Cl)C([C][C]N3C=CN[C]N3)N2)N1       0.0031        
+OC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3NC(Cl)=C(C=CN=S)N3)N2)N[C]NN1           0.0026        
+CC1=C(C2=C(N3C=C(Br)CC3)[N-][C](->[Ag+]<-[C]3NC(Cl)=C(N4C=C(Cl)CC4)N3)N2)  0.0010        
+S=NC1=C(Cl)N[C](->[Ag+]<-[C]2NC(S)=C(c3ccccc3)N2)[N-]1                     0.0004        
+SC1=C(C2C=C(Cl)N[C](->[Ag+]<-[C]3NC(Cl)=C(N4C=CNCC4)N3)N2)N[C]N1           0.0000        
+FC1C=C(Cl)N[C]1->[Ag+]<-[C]1NC(S)=C(c2ccccc2)N1                            0.0000        
+OC1=C(Cl)N[C](->[Ag+]<-[C]2NC(O)=C(C3=C(Cl)N[C]N3)N2)N1                    0.0000        
+OC1=C[N-][C](->[Ag+]<-[C]2NC(O)=C(Cl)N2)N1                                 nan           
+CCC1=C(Cl)N[C](->[Ag+]<-[C]2NC(Cl)=C(C3=C(Cl)N[C]N3)N2)[N-]1               nan           
+CN1(->[Ag+]<-[C]2[N-]C(N3CC(F)=C(Br)C3)=C(Cl)N2)C=CNCC1                    nan           
+FC1C=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(c3ccccc3)=C(CN3CC(Cl)N[C]N3)N2)N1        nan           
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(N3CC(F)=C(Br)C3)=C(C3=CC=CC3)N  nan           
+FC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)N1                  nan           
+CCC(=CNC1=C(O)N[C](->[Ag+]<-[C]2NC(Cl)=C(C3=CCN[C]N3)N2)[N-]1)N=S          nan           
+OC1=C(Br)[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=C(Cl)N2)N1                  nan           
+CCN1C=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(N=S)CC3)=C(O)N2)N1                nan           
+CC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)N1                  nan           
+OC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3NC(Cl)=C(SN4C=C(Cl)CC4)C(Cl)N3)N2)N[C]  nan           
+S=NC1=CN(C2=C(Cl)N[C](->[Ag+]<-[C]3[N-]C(Cl)=C(OCl)NN3)[N-]2)CC1           nan           
+S=NC1=CN(C2=C(Cl)N[C](->[Ag+]<-[C]3[N-]C(N4C=CNCC4)=C(Cl)N3)[N-]2)CC1Br    nan           
+CN1C=C(CC2=C(c3ccccc3)[N-][C](->[Ag+]<-[C]3NC(SCl)=CC(F)N3)N2)N[C]N1       nan           
+=========================================================================================
+
+=========================================================================================
+                                      Generation 17                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CCC1=C(C2=C(O)N[C]N2)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)[N-]1   0.1025        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)N1                 0.0971        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3NC=C(F)CN3)=C(Cl)N2)N1                   0.0733        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(Br)=CNN2)N1                     0.0647        
+ClCC1=C(Cl)NN[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)[N-]1            0.0509        
+ClC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(c3ccccc3)=C(CN3CC(Cl)N[C]N3)N2)[N-]1     0.0458        
+CC1=C(C2=C(Cl)N[C](->[Ag+]<-[C]3[N-]C(N4C=C(Cl)CC4)=C(Cl)N3)[N-]2)N[C]N1   0.0395        
+OC1=C(C2=C(Br)[N-][C](->[Ag+]<-[C]3[N-]C(N4C=CNCC4)=C(Cl)N3)N2)N[C]NN1     0.0315        
+OC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3NC(SCl)=CC(N=S)N3)N2)N[C]NN1            0.0147        
+ClC1=CN(C2[N-][C](->[Ag+]<-[C]3NC(Cl)=C(C4=C(Cl)N[C]N4)N3)NC(Cl)N2)CCN1    0.0083        
+FC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(C3=C(Cl)N[C]N3)N2)N1      0.0044        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2NC(Cl)C([C][C]N3C=CN[C]N3)N2)N1       0.0031        
+OC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3NC(Cl)=C(C=CN=S)N3)N2)N[C]NN1           0.0026        
+CCN(C=CCl)SC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(Cl)=C(C3=C(O)N[C]N3)N2)NC1Cl    0.0021        
+CCC1=C(Cl)N[C](->[Ag+]<-[C]2NC(C)=C(C3=C(Cl)N[C]N3)N2)[N-]1                0.0010        
+CC1=C(C2=C(N3C=C(Br)CC3)[N-][C](->[Ag+]<-[C]3NC(Cl)=C(N4C=C(Cl)CC4)N3)N2)  0.0010        
+OC1=C(N=S)[N-][C](->[Ag+]<-[C]2NC(S)=C(c3ccccc3)N2)N1                      0.0006        
+S=NC1=C(Cl)N[C](->[Ag+]<-[C]2NC(S)=C(c3ccccc3)N2)[N-]1                     0.0004        
+SC1=C(C2C=C(Cl)N[C](->[Ag+]<-[C]3NC(Cl)=C(N4C=CNCC4)N3)N2)N[C]N1           0.0000        
+CC1=C(Cl)N[C](->[Ag+]<-[C]2NC(Cl)=C(N3CCC(Cl)=C(F)C3)N2)N1                 0.0000        
+CC1=C(C2=C(Cl)N[C]N2)N[C](->[Ag+]<-[C]2NC(O)=C(Cl)N2)N1                    0.0000        
+FC1C=C(Cl)N[C]1->[Ag+]<-[C]1NC(S)=C(c2ccccc2)N1                            0.0000        
+OC1=C(Cl)N[C](->[Ag+]<-[C]2NC(O)=C(C3=C(Cl)N[C]N3)N2)N1                    0.0000        
+SC1=C(c2ccccc2)N[C](->[Ag+]<-[C]2NC(Cl)=C(Cl)N2)N1                         0.0000        
+CC1=C(N(=S)->[Ag+]<-[C]2NC(S)=C(c3ccccc3)N2)[N-]CC=C1                      0.0000        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 18                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)N2)N1                      0.1054        
+CCC1=C(C2=C(O)N[C]N2)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)[N-]1   0.1025        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)N1                 0.0971        
+OC1=CN(C2=C(C3=C(Cl)N[C]N3)N[C](->[Ag+]<-[C]3[N-]C(F)=C(C4=C(O)N[C]N4)N3)  0.0790        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3NC=C(F)CN3)=C(Cl)N2)N1                   0.0733        
+CC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3[N-]C(N4C=C(Cl)CC4)=C(Cl)N3)N2)N[C]N1   0.0704        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)[N-]1       0.0673        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(Br)=CNN2)N1                     0.0647        
+ClCC1=C(Cl)NN[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)[N-]1            0.0509        
+ClC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(Br)=C(c3ccccc3)N2)N1           0.0489        
+CCC1=CN(C2=C(Cl)N[C](->[Ag+]<-[C]3[N-]C(C4=C(C)N[C]N4)=C(Cl)N3)[N-]2)CC1   0.0466        
+ClC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(c3ccccc3)=C(CN3CC(Cl)N[C]N3)N2)[N-]1     0.0458        
+CC1=C(C2=C(Cl)N[C](->[Ag+]<-[C]3[N-]C(N4C=C(Cl)CC4)=C(Cl)N3)[N-]2)N[C]N1   0.0395        
+OC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3[N-]C(N4CCNCC4)=C(Cl)N3)N2)N[C]NN1      0.0385        
+OC1=C(C2=C(Br)[N-][C](->[Ag+]<-[C]3[N-]C(N4C=CNCC4)=C(Cl)N3)N2)N[C]NN1     0.0315        
+OC1=CN(C2[N-][C](->[Ag+]<-[C]3NC(Cl)=C(C4=C(Cl)N[C]N4O)N3)NC(Cl)N2)CCN1    0.0297        
+OC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(C3=CC=CCC3)=C(CN3CC(Cl)N[C]N3)N2)[N-]1    0.0213        
+OC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3NC(SCl)=CC(N=S)N3)N2)N[C]NN1            0.0147        
+ClC1=CN(C2[N-][C](->[Ag+]<-[C]3NC(Cl)=C(C4=C(Cl)N[C]N4)N3)NC(Cl)N2)CCN1    0.0083        
+ClC1=CN(C2=C(Cl)N[C](->[Ag+]<-[C]3[N-]C(Br)=C(Cl)N3)N2)CC1                 0.0083        
+FC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(C3=C(Cl)N[C]N3)N2)N1      0.0044        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2NC(Cl)C([C][C]N3C=CN[C]N3)N2)N1       0.0031        
+OC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3NC(Cl)=C(C=CN=S)N3)N2)N[C]NN1           0.0026        
+CCN(C=CCl)SC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(Cl)=C(C3=C(O)N[C]N3)N2)NC1Cl    0.0021        
+CCC1=C(Cl)N[C](->[Ag+]<-[C]2NC(C)=C(C3=C(Cl)N[C]N3)N2)[N-]1                0.0010        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 19                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)N2)N1                      0.1054        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)N1                   0.1030        
+CCC1=C(C2=C(O)N[C]N2)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)[N-]1   0.1025        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)N1                 0.0971        
+OC1=CN(C2=C(C3=C(Cl)N[C]N3)N[C](->[Ag+]<-[C]3[N-]C(F)=C(C4=C(O)N[C]N4)N3)  0.0790        
+CCC1=C(C2=C(O)N[C]N2)N[C](->[Ag+]<-[C]2[N-]C(Br)=CNN2)[N-]1                0.0741        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3NC=C(F)CN3)=C(Cl)N2)N1                   0.0733        
+CC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3[N-]C(N4C=C(Cl)CC4)=C(Cl)N3)N2)N[C]N1   0.0704        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)[N-]1       0.0673        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(Br)=CNN2)N1                     0.0647        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(C3=C(C=CN=S)N[C]N3)=C(Cl)N2)N1             0.0590        
+ClCC1=C(Cl)NN[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)[N-]1            0.0509        
+ClC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(Br)=C(c3ccccc3)N2)N1           0.0489        
+OC1=CN(C2=C(C3=C(Cl)N[C]N3)N[C](->[Ag+]<-[C]3[N-]C(F)=C(Cl)N3)[N-]2)CC1    0.0482        
+CCC1=CN(C2=C(Cl)N[C](->[Ag+]<-[C]3[N-]C(C4=C(C)N[C]N4)=C(Cl)N3)[N-]2)CC1   0.0466        
+ClC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(c3ccccc3)=C(CN3CC(Cl)N[C]N3)N2)[N-]1     0.0458        
+CC1=C(C2=C(Cl)N[C](->[Ag+]<-[C]3[N-]C(N4C=C(Cl)CC4)=C(Cl)N3)[N-]2)N[C]N1   0.0395        
+OC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3[N-]C(N4CCNCC4)=C(Cl)N3)N2)N[C]NN1      0.0385        
+OC1=C(C2=C(Br)[N-][C](->[Ag+]<-[C]3[N-]C(N4C=CNCC4)=C(Cl)N3)N2)N[C]NN1     0.0315        
+OC1=CN(C2[N-][C](->[Ag+]<-[C]3NC(Cl)=C(C4=C(Cl)N[C]N4O)N3)NC(Cl)N2)CCN1    0.0297        
+OC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(C3=CC=CCC3)=C(CN3CC(Cl)N[C]N3)N2)[N-]1    0.0213        
+OC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3NC(SCl)=CC(N=S)N3)N2)N[C]NN1            0.0147        
+CCC1=C(Br)[N-][C](->[Ag+]<-[C]2NC(Cl)=C(N3C=CNCC3)N2)N1                    0.0089        
+ClC1=CN(C2=C(Cl)N[C](->[Ag+]<-[C]3[N-]C(c4ccccc4)=C(Cl)N3)N2)CC1           0.0084        
+ClC1=CN(C2[N-][C](->[Ag+]<-[C]3NC(Cl)=C(C4=C(Cl)N[C]N4)N3)NC(Cl)N2)CCN1    0.0083        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 20                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                     0.1307        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)NN2)N1                     0.1107        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)N2)N1                      0.1054        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)N1         0.1046        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)N1                   0.1030        
+CCC1=C(C2=C(O)N[C]N2)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)[N-]1   0.1025        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)N1                 0.0971        
+OC1=CN(C2=C(C3=C(Cl)N[C]N3)N[C](->[Ag+]<-[C]3[N-]C(F)=C(C4=C(O)N[C]N4)N3)  0.0790        
+ClC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)N1                        0.0772        
+ClC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=C(Cl)N2)N1                     0.0766        
+CCC1=C(C2=C(O)N[C]N2)N[C](->[Ag+]<-[C]2[N-]C(Br)=CNN2)[N-]1                0.0741        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3NC=C(F)CN3)=C(Cl)N2)N1                   0.0733        
+CC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3[N-]C(N4C=C(Cl)CC4)=C(Cl)N3)N2)N[C]N1   0.0704        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)[N-]1       0.0673        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(Br)=CNN2)N1                     0.0647        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(C3=C(C=CN=S)N[C]N3)=C(Cl)N2)N1             0.0590        
+OC1=C(N2C=C(Cl)CC2)[N-][C](->[Ag+]<-[C]2[N-]C(Br)=CNN2)N1                  0.0540        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(CCl)N2)N1       0.0537        
+ClCC1=C(Cl)NN[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)[N-]1            0.0509        
+CC1=C(C2=C(O)[N-][C](->[Ag+]<-[C]3[N-]C(N4C=C(Cl)CC4)=C(Cl)N3)N2)N[C]N1    0.0506        
+ClC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(Br)=C(c3ccccc3)N2)N1           0.0489        
+CC1=NN(C2=C(Cl)N[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)N[C]N1                 0.0487        
+OC1=CN(C2=C(C3=C(Cl)N[C]N3)N[C](->[Ag+]<-[C]3[N-]C(F)=C(Cl)N3)[N-]2)CC1    0.0482        
+CCC1=CN(C2=C(Cl)N[C](->[Ag+]<-[C]3[N-]C(C4=C(C)N[C]N4)=C(Cl)N3)[N-]2)CC1   0.0466        
+ClC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(c3ccccc3)=C(CN3CC(Cl)N[C]N3)N2)[N-]1     0.0458        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 21                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                     0.1307        
+C[N-][C](NCN1C=CNC1)->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=CNN1                     0.1255        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)NN2)N1                     0.1107        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)N2)N1                      0.1054        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)N1         0.1046        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)N1                   0.1030        
+CCC1=C(C2=C(O)N[C]N2)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)[N-]1   0.1025        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)N1                 0.0971        
+OC1=CN(C2=C(C3=C(Cl)N[C]N3)N[C](->[Ag+]<-[C]3[N-]C(F)=C(C4=C(O)N[C]N4)N3)  0.0790        
+ClC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)N1                        0.0772        
+ClC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=C(Cl)N2)N1                     0.0766        
+CCC1=C(C2=C(O)N[C]N2)N[C](->[Ag+]<-[C]2[N-]C(Br)=CNN2)[N-]1                0.0741        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3NC=C(F)CN3)=C(Cl)N2)N1                   0.0733        
+CC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3[N-]C(N4C=C(Cl)CC4)=C(Cl)N3)N2)N[C]N1   0.0704        
+CC1=C(O)N[C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)[N-]1                      0.0701        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)[N-]1       0.0673        
+CC1=NN(C2=C(N3C=CNCC3)[N-][C](->[Ag+]<-[C]3[N-]C=C(Cl)N3)N2)N[C]N1         0.0662        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(Br)=CNN2)N1                     0.0647        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(C3=C(C=CN=S)N[C]N3)=C(Cl)N2)N1             0.0590        
+OC1=C(N2C=C(Cl)CC2)[N-][C](->[Ag+]<-[C]2[N-]C(Br)=CNN2)N1                  0.0540        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(CCl)N2)N1       0.0537        
+ClCC1=C(Cl)NN[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)[N-]1            0.0509        
+CC1=C(C2=C(O)[N-][C](->[Ag+]<-[C]3[N-]C(N4C=C(Cl)CC4)=C(Cl)N3)N2)N[C]N1    0.0506        
+ClC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(Br)=C(c3ccccc3)N2)N1           0.0489        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 22                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)N1                  0.1448        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                     0.1307        
+C[N-][C](NCN1C=CNC1)->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=CNN1                     0.1255        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)NN2)N1                     0.1107        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)N2)N1                      0.1054        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)N1         0.1046        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)N1                   0.1030        
+CCC1=C(C2=C(O)N[C]N2)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)[N-]1   0.1025        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)N1                 0.0971        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)N1                         0.0912        
+CNC(=C(N)O)C1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)NN2)N1             0.0911        
+OC1=CN(C2=C(C3=C(Cl)N[C]N3)N[C](->[Ag+]<-[C]3[N-]C(F)=C(C4=C(O)N[C]N4)N3)  0.0790        
+ClC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)N1                        0.0772        
+ClC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=C(Cl)N2)N1                     0.0766        
+CCC1=C(C2=C(O)N[C]N2)N[C](->[Ag+]<-[C]2[N-]C(Br)=CNN2)[N-]1                0.0741        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3NC=C(F)CN3)=C(Cl)N2)N1                   0.0733        
+CC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3[N-]C(N4C=C(Cl)CC4)=C(Cl)N3)N2)N[C]N1   0.0704        
+CC1=C(O)N[C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)[N-]1                      0.0701        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)[N-]1       0.0673        
+CC1=NN(C2=C(N3C=CNCC3)[N-][C](->[Ag+]<-[C]3[N-]C=C(Cl)N3)N2)N[C]N1         0.0662        
+OC1=C(N2C=C(Cl)CC2)[N-][C](->[Ag+]<-[C]2[N-]C(Br)=C(Cl)N2)N1               0.0654        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(Br)=CNN2)N1                     0.0647        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(C3=C(C=CN=S)N[C]N3)=C(Cl)N2)N1             0.0590        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 23                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+NC(Cl)=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1                   0.2898        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)N1                  0.1448        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                     0.1307        
+C[N-][C](NCN1C=CNC1)->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=CNN1                     0.1255        
+OC1=C(CCl)[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)NN1             0.1153        
+CC1=C(N2C=CNCC2)N[C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)[N-]1                 0.1129        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)NN2)N1                     0.1107        
+ClC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C(Br)=C(Cl)N3)N2)CC1                  0.1083        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)N2)N1                      0.1054        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)N1         0.1046        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)N1                   0.1030        
+CCC1=C(C2=C(O)N[C]N2)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)[N-]1   0.1025        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)N1                 0.0971        
+ClC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)N1               0.0926        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)N1                         0.0912        
+CNC(=C(N)O)C1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)NN2)N1             0.0911        
+OC1=CN(C2=C(C3=C(Cl)N[C]N3)N[C](->[Ag+]<-[C]3[N-]C(F)=C(C4=C(O)N[C]N4)N3)  0.0790        
+CC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3[N-]C(CCl)=CNN3)N2)N[C]N1               0.0785        
+ClC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)N1                        0.0772        
+ClC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=C(Cl)N2)N1                     0.0766        
+CCC1=C(C2=C(O)N[C]N2)N[C](->[Ag+]<-[C]2[N-]C(Br)=CNN2)[N-]1                0.0741        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3NC=C(F)CN3)=C(Cl)N2)N1                   0.0733        
+CC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3[N-]C(N4C=C(Cl)CC4)=C(Cl)N3)N2)N[C]N1   0.0704        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 24                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+NC(Cl)=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1                   0.2898        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)N1                  0.1448        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                     0.1307        
+C[N-][C](NCN1C=CNC1)->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=CNN1                     0.1255        
+CNC(C1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C(CCl)=C(Cl)NN3)[N-]2)CCN1)=C(N)O   0.1173        
+C1=CN(C2=CNN[C](->[Ag+]<-[C]3[N-]C=C(N4C=CNC4)N3)[N-]2)CCN1                0.1161        
+OC1=C(CCl)[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)NN1             0.1153        
+CC1=C(N2C=CNCC2)N[C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)[N-]1                 0.1129        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)NN2)N1                     0.1107        
+ClC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C(Br)=C(Cl)N3)N2)CC1                  0.1083        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)N2)N1                      0.1054        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)N1         0.1046        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)N1                   0.1030        
+CCC1=C(C2=C(O)N[C]N2)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)[N-]1   0.1025        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)N1                 0.0971        
+ClC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)N1               0.0926        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)N1                         0.0912        
+CNC(=C(N)O)C1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)NN2)N1             0.0911        
+ClC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                      0.0851        
+OC1=CN(C2=C(C3=C(Cl)N[C]N3)N[C](->[Ag+]<-[C]3[N-]C(F)=C(C4=C(O)N[C]N4)N3)  0.0790        
+CC1=C(C2=C(Cl)[N-][C](->[Ag+]<-[C]3[N-]C(CCl)=CNN3)N2)N[C]N1               0.0785        
+ClC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)N1                        0.0772        
+ClC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=C(Cl)N2)N1                     0.0766        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 25                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+NC(Cl)=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1                   0.2898        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)N1                  0.1448        
+NC1=C(O)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=CN2)[N-]1                     0.1394        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                     0.1307        
+C[N-][C](NCN1C=CNC1)->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=CNN1                     0.1255        
+CNC(C1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C(CCl)=C(Cl)NN3)[N-]2)CCN1)=C(N)O   0.1173        
+C1=CN(C2=CNN[C](->[Ag+]<-[C]3[N-]C=C(N4C=CNC4)N3)[N-]2)CCN1                0.1161        
+OC1=C(CCl)[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)NN1             0.1153        
+CC1=C(N2C=CNCC2)N[C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)[N-]1                 0.1129        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)NN2)N1                     0.1107        
+ClC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C(Br)=C(Cl)N3)N2)CC1                  0.1083        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)N2)N1                      0.1054        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)N1         0.1046        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3NC=C(N4N=C(Cl)CN4)CN3)=C(Cl)N2)N1        0.1045        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)N1                   0.1030        
+CCC1=C(C2=C(O)N[C]N2)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)[N-]1   0.1025        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)N1                 0.0971        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3CCNC3)=C(Cl)N2)N1                        0.0937        
+CC1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C(CCl)=C(Cl)NN3)[N-]2)CC1              0.0930        
+ClC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)N1               0.0926        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)N1                         0.0912        
+CNC(=C(N)O)C1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)NN2)N1             0.0911        
+ClC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                      0.0851        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 26                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+FC1CNN(C2=C[N-][C](->[Ag+]<-N3C=C[N-]C=C3Cl)NN2)NC1                        0.6176        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+NC(Cl)=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1                   0.2898        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                        0.1575        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)N1                  0.1448        
+NC1=C(O)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=CN2)[N-]1                     0.1394        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                     0.1307        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NC=C(F)CN4)CC3)NN2)N1        0.1257        
+C[N-][C](NCN1C=CNC1)->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=CNN1                     0.1255        
+CC1=C(N2NC=C(F)CN2)N[C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)[N  0.1197        
+CNC(C1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C(CCl)=C(Cl)NN3)[N-]2)CCN1)=C(N)O   0.1173        
+C1=CN(C2=CNN[C](->[Ag+]<-[C]3[N-]C=C(N4C=CNC4)N3)[N-]2)CCN1                0.1161        
+OC1=C(CCl)[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)NN1             0.1153        
+CC1=C(N2C=CNCC2)N[C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)[N-]1                 0.1129        
+C=C1CC(Cl)=CN1C1=C(CC)[N-][C](->[Ag+]<-[C]2[N-]C(Cl)=C(O)N2)N1             0.1122        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)NN2)N1                     0.1107        
+ClC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C(Br)=C(Cl)N3)N2)CC1                  0.1083        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)N2)N1                      0.1054        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)N1         0.1046        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3NC=C(N4N=C(Cl)CN4)CN3)=C(Cl)N2)N1        0.1045        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)N1                   0.1030        
+CCC1=C(C2=C(O)N[C]N2)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)[N-]1   0.1025        
+CC1=C(N2C=CNCC2)N[C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)NN2)[N-]1                0.1006        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)N1                 0.0971        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 27                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+FC1CNN(C2=C[N-][C](->[Ag+]<-N3C=C[N-]C=C3Cl)NN2)NC1                        0.6176        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+NC(Cl)=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1                   0.2898        
+CNC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=C(O)N2)N1                    0.1755        
+OC1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                     0.1745        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                        0.1575        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)N1                  0.1448        
+NC1=C(O)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=CN2)[N-]1                     0.1394        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                     0.1307        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NC=C(F)CN4)CC3)NN2)N1        0.1257        
+C[N-][C](NCN1C=CNC1)->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=CNN1                     0.1255        
+CC1=C(N2NC=C(F)CN2)N[C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)[N  0.1197        
+CNC(C1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C(CCl)=C(Cl)NN3)[N-]2)CCN1)=C(N)O   0.1173        
+C1=CN(C2=CNN[C](->[Ag+]<-[C]3[N-]C=C(N4C=CNC4)N3)[N-]2)CCN1                0.1161        
+OC1=C(CCl)[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)NN1             0.1153        
+CC1=C(N2C=CNCC2)N[C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)[N-]1                 0.1129        
+C=C1CC(Cl)=CN1C1=C(CC)[N-][C](->[Ag+]<-[C]2[N-]C(Cl)=C(O)N2)N1             0.1122        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)NN2)N1                     0.1107        
+ClC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C(Br)=C(Cl)N3)N2)CC1                  0.1083        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)N2)N1                      0.1054        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)N1         0.1046        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3NC=C(N4N=C(Cl)CN4)CN3)=C(Cl)N2)N1        0.1045        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)N1                   0.1030        
+CCC1=C(C2=C(O)N[C]N2)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(Cl)CC3)=C(Cl)N2)[N-]1   0.1025        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 28                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+FC1CNN(C2=C[N-][C](->[Ag+]<-N3C=C[N-]C=C3Cl)NN2)NC1                        0.6176        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+NC(Cl)=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1                   0.2898        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]NC(O)=C(O)N3)[N-]2)CC1                    0.2243        
+CNC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=C(O)N2)N1                    0.1755        
+OC1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                     0.1745        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                        0.1575        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)N1                  0.1448        
+NC1=C(O)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=CN2)[N-]1                     0.1394        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                     0.1307        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NC=C(F)CN4)CC3)NN2)N1        0.1257        
+C[N-][C](NCN1C=CNC1)->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=CNN1                     0.1255        
+CC1=C(N2NC=C(F)CN2)N[C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)[N  0.1197        
+CNC(C1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C(CCl)=C(Cl)NN3)[N-]2)CCN1)=C(N)O   0.1173        
+C1=CN(C2=CNN[C](->[Ag+]<-[C]3[N-]C=C(N4C=CNC4)N3)[N-]2)CCN1                0.1161        
+OC1=C(CCl)[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)NN1             0.1153        
+ClC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(Br)N3)N2)CC1                      0.1135        
+CC1=C(N2C=CNCC2)N[C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)[N-]1                 0.1129        
+C=C1CC(Cl)=CN1C1=C(CC)[N-][C](->[Ag+]<-[C]2[N-]C(Cl)=C(O)N2)N1             0.1122        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)NN2)N1                     0.1107        
+ClC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C(Br)=C(Cl)N3)N2)CC1                  0.1083        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)N2)N1                      0.1054        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)N1         0.1046        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3NC=C(N4N=C(Cl)CN4)CN3)=C(Cl)N2)N1        0.1045        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 29                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+FC1CNN(C2=C[N-][C](->[Ag+]<-N3C=C[N-]C=C3Cl)NN2)NC1                        0.6176        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+NC(Cl)=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1                   0.2898        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]NC(O)=C(O)N3)[N-]2)CC1                    0.2243        
+CNC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=C(O)N2)N1                    0.1755        
+OC1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                     0.1745        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                        0.1575        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)N1                  0.1448        
+NC1=C(O)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=CN2)[N-]1                     0.1394        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                     0.1307        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NC=C(F)CN4)CC3)NN2)N1        0.1257        
+C[N-][C](NCN1C=CNC1)->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=CNN1                     0.1255        
+CC1=C(N2NC=C(F)CN2)N[C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)[N  0.1197        
+CNC(C1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C(CCl)=C(Cl)NN3)[N-]2)CCN1)=C(N)O   0.1173        
+C1=CN(C2=CNN[C](->[Ag+]<-[C]3[N-]C=C(N4C=CNC4)N3)[N-]2)CCN1                0.1161        
+CNC1=C[N-][C](->[Ag+]<-[C]2[N-]C(Cl)=C(O)NN2)N1                            0.1157        
+OC1=C(CCl)[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)NN1             0.1153        
+ClC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(Br)N3)N2)CC1                      0.1135        
+CC1=C(N2C=CNCC2)N[C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)[N-]1                 0.1129        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]C=C(Cl)N3)[N-]2)CC1                       0.1125        
+C=C1CC(Cl)=CN1C1=C(CC)[N-][C](->[Ag+]<-[C]2[N-]C(Cl)=C(O)N2)N1             0.1122        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)NN2)N1                     0.1107        
+ClC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C(Br)=C(Cl)N3)N2)CC1                  0.1083        
+OC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C(Br)=C(Cl)N3)N2)CC1                   0.1079        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 30                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+FC1CNN(C2=C[N-][C](->[Ag+]<-N3C=C[N-]C=C3Cl)NN2)NC1                        0.6176        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+NC(Cl)=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1                   0.2898        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]NC(O)=C(O)N3)[N-]2)CC1                    0.2243        
+CNC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=C(O)N2)N1                    0.1755        
+OC1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                     0.1745        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                        0.1575        
+OC1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C=CNN3)[N-]2)CC1                       0.1512        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)N1                  0.1448        
+NC1=C(O)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=CN2)[N-]1                     0.1394        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                     0.1307        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NC=C(F)CN4)CC3)NN2)N1        0.1257        
+C[N-][C](NCN1C=CNC1)->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=CNN1                     0.1255        
+CC1=C(N2NC=C(F)CN2)N[C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)[N  0.1197        
+CNC(C1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C(CCl)=C(Cl)NN3)[N-]2)CCN1)=C(N)O   0.1173        
+C1=CN(C2=CNN[C](->[Ag+]<-[C]3[N-]C=C(N4C=CNC4)N3)[N-]2)CCN1                0.1161        
+BrC1=C[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)N1                          0.1161        
+CNC1=C[N-][C](->[Ag+]<-[C]2[N-]C(Cl)=C(O)NN2)N1                            0.1157        
+OC1=C(CCl)[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)NN1             0.1153        
+ClC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(Br)N3)N2)CC1                      0.1135        
+CC1=C(N2C=CNCC2)N[C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)[N-]1                 0.1129        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]C=C(Cl)N3)[N-]2)CC1                       0.1125        
+C=C1CC(Cl)=CN1C1=C(CC)[N-][C](->[Ag+]<-[C]2[N-]C(Cl)=C(O)N2)N1             0.1122        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-[C]2[N-]C=C(Cl)NN2)N1                     0.1107        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 31                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+FC1CNN(C2=C[N-][C](->[Ag+]<-N3C=C[N-]C=C3Cl)NN2)NC1                        0.6176        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+OC1=C(O)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)[N-]N1                  0.3493        
+NC(Cl)=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1                   0.2898        
+OC1=CN[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)N1                          0.2811        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]NC(O)=C(O)N3)[N-]2)CC1                    0.2243        
+CNC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=C(O)N2)N1                    0.1755        
+OC1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                     0.1745        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                        0.1575        
+OC1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C=CNN3)[N-]2)CC1                       0.1512        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)N1                  0.1448        
+NC1=C(O)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=CN2)[N-]1                     0.1394        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                     0.1307        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NC=C(F)CN4)CC3)NN2)N1        0.1257        
+C[N-][C](NCN1C=CNC1)->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=CNN1                     0.1255        
+CC1=C(N2NC=C(F)CN2)N[C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)[N  0.1197        
+CNC(C1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C(CCl)=C(Cl)NN3)[N-]2)CCN1)=C(N)O   0.1173        
+C1=CN(C2=CNN[C](->[Ag+]<-[C]3[N-]C=C(N4C=CNC4)N3)[N-]2)CCN1                0.1161        
+NC(=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1)n1cc[nH]c1=O         0.1161        
+BrC1=C[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)N1                          0.1161        
+CNC1=C[N-][C](->[Ag+]<-[C]2[N-]C(Cl)=C(O)NN2)N1                            0.1157        
+OC1=C(CCl)[N-][C](->[Ag+]<-[C]2[N-]C(N3N=C(Cl)CN3)=C(Cl)N2)NN1             0.1153        
+ClC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(Br)N3)N2)CC1                      0.1135        
+CC1=C(N2C=CNCC2)N[C](->[Ag+]<-[C]2[N-]C(CCl)=C(Cl)N2)[N-]1                 0.1129        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 32                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+FC1CNN(C2=C(N3C=CNCC3)[N-][C](->[Ag+]<-N3C=C[N-]C3)N2)NC1                  0.8110        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+FC1CNN(C2=C[N-][C](->[Ag+]<-N3C=C[N-]C=C3Cl)NN2)NC1                        0.6176        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+OC1=C(O)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)[N-]N1                  0.3493        
+NC(Cl)=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1                   0.2898        
+OC1=CN[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)N1                          0.2811        
+OC1=CN(C2=C(N3NC=C(F)CN3)[N-][C](->[Ag+]<-[C]3[N-]C=CNN3)N2)CC1            0.2281        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]NC(O)=C(O)N3)[N-]2)CC1                    0.2243        
+ClC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4C=CNCC4)NN3)NN2)CC1             0.1888        
+NC1CNN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C(N4C=C(Cl)CC4)=C(O)N3)NN2)NC1         0.1757        
+CNC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=C(O)N2)N1                    0.1755        
+OC1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                     0.1745        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                        0.1575        
+OC1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C=CNN3)[N-]2)CC1                       0.1512        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)N1                  0.1448        
+NC1=C(O)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=CN2)[N-]1                     0.1394        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                     0.1307        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NC=C(F)CN4)CC3)NN2)N1        0.1257        
+C[N-][C](NCN1C=CNC1)->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=CNN1                     0.1255        
+CC1=C(N2NC=C(F)CN2)N[C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)[N  0.1197        
+CNC(C1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C(CCl)=C(Cl)NN3)[N-]2)CCN1)=C(N)O   0.1173        
+C1=CN(C2=CNN[C](->[Ag+]<-[C]3[N-]C=C(N4C=CNC4)N3)[N-]2)CCN1                0.1161        
+NC(=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1)n1cc[nH]c1=O         0.1161        
+BrC1=C[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)N1                          0.1161        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 33                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+FC1CNN(C2=C(N3C=CNCC3)[N-][C](->[Ag+]<-N3C=C[N-]C3)N2)NC1                  0.8110        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+C1=CN(->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=C(N3NCC(N4C=CNCC4)CN3)N2)C[N-]1        0.6230        
+FC1CNN(C2=C[N-][C](->[Ag+]<-N3C=C[N-]C=C3Cl)NN2)NC1                        0.6176        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+OC1=C(O)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)[N-]N1                  0.3493        
+NC(Cl)=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1                   0.2898        
+OC1=CN[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)N1                          0.2811        
+OC1=CN(C2=C(N3NC=C(F)CN3)[N-][C](->[Ag+]<-[C]3[N-]C=CNN3)N2)CC1            0.2281        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]NC(O)=C(O)N3)[N-]2)CC1                    0.2243        
+ClC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4C=CNCC4)NN3)NN2)CC1             0.1888        
+NC1CNN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C(N4C=C(Cl)CC4)=C(O)N3)NN2)NC1         0.1757        
+CNC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=C(O)N2)N1                    0.1755        
+OC1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                     0.1745        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                        0.1575        
+OC1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C=CNN3)[N-]2)CC1                       0.1512        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)N1                  0.1448        
+N=C1CC(O)=CN1C1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=CN2)N1            0.1414        
+NC1=C(O)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=CN2)[N-]1                     0.1394        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                     0.1307        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NC=C(F)CN4)CC3)NN2)N1        0.1257        
+C[N-][C](NCN1C=CNC1)->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=CNN1                     0.1255        
+CC1=C(N2NC=C(F)CN2)N[C](->[Ag+]<-[C]2[N-]C(N3C=CNC3)=C(N3C=C(Cl)CC3)N2)[N  0.1197        
+CNC(C1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C(CCl)=C(Cl)NN3)[N-]2)CCN1)=C(N)O   0.1173        
+C1=CN(C2=CNN[C](->[Ag+]<-[C]3[N-]C=C(N4C=CNC4)N3)[N-]2)CCN1                0.1161        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 34                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+FC1CNN(C2=C(N3C=CNCC3)[N-][C](->[Ag+]<-N3C=C[N-]C3)N2)NC1                  0.8110        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+C1=CN(->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=C(N3NCC(N4C=CNCC4)CN3)N2)C[N-]1        0.6230        
+FC1CNN(C2=C[N-][C](->[Ag+]<-N3C=C[N-]C=C3Cl)NN2)NC1                        0.6176        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+OC1=CN[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NCC(F)N4)CC3)NN2)N1             0.3896        
+OC1=C(O)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)[N-]N1                  0.3493        
+NC(Cl)=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1                   0.2898        
+OC1=CN[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)N1                          0.2811        
+OC1=CN(C2=C(N3NC=C(F)CN3)[N-][C](->[Ag+]<-[C]3[N-]C=CNN3)N2)CC1            0.2281        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]NC(O)=C(O)N3)[N-]2)CC1                    0.2243        
+CNC1=C[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(O)CCC3)NN2)N1                     0.2137        
+ClC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4C=CNCC4)NN3)NN2)CC1             0.1888        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(O)=C(O)N2)N1                               0.1762        
+NC1CNN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C(N4C=C(Cl)CC4)=C(O)N3)NN2)NC1         0.1757        
+CNC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=C(O)N2)N1                    0.1755        
+OC1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                     0.1745        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                        0.1575        
+OC1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C=CNN3)[N-]2)CC1                       0.1512        
+OC1=C(Cl)[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)N1                  0.1448        
+N=C1CC(O)=CN1C1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=CN2)N1            0.1414        
+C1=CN(C2=CNN[C](->[Ag+]<-[C]3[N-]C=C(CN4C=CNC4)N3)[N-]2)CCN1               0.1397        
+NC1=C(O)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=CN2)[N-]1                     0.1394        
+C[N-][C](NCNC)->[Ag+]<-[C]1CC(O)=C(N2C=C(O)CC2)[N-]1                       0.1385        
+ClCC1=C(Cl)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)[N-]1                     0.1307        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 35                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+ClC1=C(N2NCC(N3C=CNCC3)CN2)N[C](->[Ag+]<-N2C=C[N-]C2)[N-]1                 0.9992        
+C1=CN(->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)C(CN2C=CNC2)=C[N-]1               0.9904        
+C1=CN(->[Ag+]<-[C]2[N-]C=C(N3C=CNCC3)N2)C[N-]1                             0.9535        
+FC1CNN(C2=C(N3C=CNCC3)[N-][C](->[Ag+]<-N3C=C[N-]C3)N2)NC1                  0.8110        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+C1=CN(->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=C(N3NCC(N4C=CNCC4)CN3)N2)C[N-]1        0.6230        
+FC1CNN(C2=C[N-][C](->[Ag+]<-N3C=C[N-]C=C3Cl)NN2)NC1                        0.6176        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+OC1=CN[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NCC(F)N4)CC3)NN2)N1             0.3896        
+OC1=C(O)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)[N-]N1                  0.3493        
+NC(Cl)=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1                   0.2898        
+OC1=CN[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)N1                          0.2811        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NCC(F)N4)CC3)NN2)NN1             0.2494        
+OC1=CN(C2=C(N3NC=C(F)CN3)[N-][C](->[Ag+]<-[C]3[N-]C=CNN3)N2)CC1            0.2281        
+OC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4CC(Cl)C4)NN3)NN2)CCC1            0.2268        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]NC(O)=C(O)N3)[N-]2)CC1                    0.2243        
+CNC1=C[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(O)CCC3)NN2)N1                     0.2137        
+ClC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4C=CNCC4)NN3)NN2)CC1             0.1888        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NCC(F)N4)CC3)NN2)N1              0.1881        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(O)=C(O)N2)N1                               0.1762        
+NC1CNN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C(N4C=C(Cl)CC4)=C(O)N3)NN2)NC1         0.1757        
+CNC1=C[N-][C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=C(O)N2)N1                    0.1755        
+OC1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                     0.1745        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]C=C(O)N3)[N-]2)CC1                        0.1575        
+OC1=CN(C2=C(O)N[C](->[Ag+]<-[C]3[N-]C=CNN3)[N-]2)CC1                       0.1512        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 36                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+ClC1=C(N2NCC(N3C=CNCC3)CN2)N[C](->[Ag+]<-N2C=C[N-]C2)[N-]1                 0.9992        
+C1=CN(->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)C(CN2C=CNC2)=C[N-]1               0.9904        
+C1=CN(->[Ag+]<-[C]2[N-]C=C(N3C=CNCC3)N2)C[N-]1                             0.9535        
+ClC1CNN(C2=C(N3C=CNCC3)[N-][C](->[Ag+]<-N3C=C[N-]C3)N2)NC1                 0.9526        
+FC1CNN(C2=C(N3C=CNCC3)[N-][C](->[Ag+]<-N3C=C[N-]C3)N2)NC1                  0.8110        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+C=C1[N-]C=CN1->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=C(N2NCC(F)CN2)N1                0.6986        
+OC1=CN(C2=C(N3C=CNCC3)N[N-][C](->[Ag+]<-[C]3[N-]C=CNN3)N2)CC1              0.6940        
+C1=CN(->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=C(N3NCC(N4C=CNCC4)CN3)N2)C[N-]1        0.6230        
+FC1CNN(C2=C[N-][C](->[Ag+]<-N3C=C[N-]C=C3Cl)NN2)NC1                        0.6176        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+ONC1CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4C=C(O)CCC4)NN3)NN2)C1            0.4122        
+OC1=CN[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NCC(F)N4)CC3)NN2)N1             0.3896        
+OC1=C(O)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)[N-]N1                  0.3493        
+NC(Cl)=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1                   0.2898        
+OC1=CN[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)N1                          0.2811        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NCC(F)N4)CC3)NN2)NN1             0.2494        
+OC1=CN(C2=C(N3NC=C(F)CN3)[N-][C](->[Ag+]<-[C]3[N-]C=CNN3)N2)CC1            0.2281        
+OC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4CC(Cl)C4)NN3)NN2)CCC1            0.2268        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]NC(O)=C(O)N3)[N-]2)CC1                    0.2243        
+CNC1=C[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(O)CCC3)NN2)N1                     0.2137        
+OC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4C=CNCC4)NN3)NN2)CCC1             0.1932        
+ClC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4C=CNCC4)NN3)NN2)CC1             0.1888        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NCC(F)N4)CC3)NN2)N1              0.1881        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C(O)=C(O)N2)N1                               0.1762        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 37                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+ClC1=C(N2NCC(N3C=CNCC3)CN2)N[C](->[Ag+]<-N2C=C[N-]C2)[N-]1                 0.9992        
+C=C1[N-]C=CN1->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=C(N2N=CNCN2)N1                  0.9975        
+C1=CN(->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)C(CN2C=CNC2)=C[N-]1               0.9904        
+C1=CN(->[Ag+]<-[C]2[N-]C=C(N3C=CNCC3)N2)C[N-]1                             0.9535        
+ClC1CNN(C2=C(N3C=CNCC3)[N-][C](->[Ag+]<-N3C=C[N-]C3)N2)NC1                 0.9526        
+NC1CC(O)=CN(C2=C[N-]C=CN2->[Ag+]<-[C]2[N-]C=C(N3NCC(F)CN3)NN2)C1           0.8792        
+FC1CNN(C2=C(N3C=CNCC3)[N-][C](->[Ag+]<-N3C=C[N-]C3)N2)NC1                  0.8110        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+N[C]([N-]C(=CN1NC=C(F)CN1)N1C=CNCC1)->[Ag+]<-N1C=C[N-]C1                   0.7346        
+C=C1[N-]C=CN1->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=C(N2NCC(F)CN2)N1                0.6986        
+OC1=CN(C2=C(N3C=CNCC3)N[N-][C](->[Ag+]<-[C]3[N-]C=CNN3)N2)CC1              0.6940        
+C1=CN(->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=C(N3NCC(N4C=CNCC4)CN3)N2)C[N-]1        0.6230        
+FC1CNN(C2=C[N-][C](->[Ag+]<-N3C=C[N-]C=C3Cl)NN2)NC1                        0.6176        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+ONC1CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4C=C(O)CCC4)NN3)NN2)C1            0.4122        
+OC1=CN[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NCC(F)N4)CC3)NN2)N1             0.3896        
+C=C1[N-]C=CN1->[Ag+]<-[C]1[N-]C=C(N2C=CNCC2)NN1                            0.3756        
+OC1=C(O)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)[N-]N1                  0.3493        
+NC(Cl)=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1                   0.2898        
+OC1=CN[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=CNC3)N2)N1                          0.2811        
+OC1=C[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NCC(F)N4)CC3)NN2)NN1             0.2494        
+OC1=CN(C2=C(N3NC=C(F)CN3)[N-][C](->[Ag+]<-[C]3[N-]C=CNN3)N2)CC1            0.2281        
+OC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4CC(Cl)C4)NN3)NN2)CCC1            0.2268        
+OC1=CN(C2=CN[C](->[Ag+]<-[C]3[N-]NC(O)=C(O)N3)[N-]2)CC1                    0.2243        
+CNC1=C[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(O)CCC3)NN2)N1                     0.2137        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 38                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+C1=CN(->[Ag+]<-[C]2[N-]C=C(N3C=C(N4C=CNCC4)CCC3)NN2)C[N-]1                 0.9998        
+ClC1=C(N2NCC(N3C=CNCC3)CN2)N[C](->[Ag+]<-N2C=C[N-]C2)[N-]1                 0.9992        
+C=C1[N-]C=CN1->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=C(N2N=CNCN2)N1                  0.9975        
+C1=CN(->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)C(CN2C=CNC2)=C[N-]1               0.9904        
+OC1CNN(C2N[C](->[Ag+]<-[C]3[N-]C=CNN3)[N-]C2N2C=CNCC2)NC1                  0.9686        
+C=C1[N-]C=CN1->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=C(N2C=CNCC2)N1                  0.9669        
+C1=CN(->[Ag+]<-[C]2[N-]C=C(N3C=CNCC3)N2)C[N-]1                             0.9535        
+ClC1CNN(C2=C(N3C=CNCC3)[N-][C](->[Ag+]<-N3C=C[N-]C3)N2)NC1                 0.9526        
+NC1CC(O)=CN(C2=C[N-]C=CN2->[Ag+]<-[C]2[N-]C=C(N3NCC(F)CN3)NN2)C1           0.8792        
+FC1CNN(C2=C(N3C=CNCC3)[N-][C](->[Ag+]<-N3C=C[N-]C3)N2)NC1                  0.8110        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+N[C]([N-]C(=CN1NC=C(F)CN1)N1C=CNCC1)->[Ag+]<-N1C=C[N-]C1                   0.7346        
+NC1=C(N2C=C(O)CC2)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=C(O)N2)[N-]N1       0.7117        
+C=C1[N-]C=CN1->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=C(N2NCC(F)CN2)N1                0.6986        
+OC1=CN(C2=C(N3C=CNCC3)N[N-][C](->[Ag+]<-[C]3[N-]C=CNN3)N2)CC1              0.6940        
+C1=CN(->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=C(N3NCC(N4C=CNCC4)CN3)N2)C[N-]1        0.6230        
+FC1CNN(C2=C[N-][C](->[Ag+]<-N3C=C[N-]C=C3Cl)NN2)NC1                        0.6176        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+ONC1CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4C=C(O)CCC4)NN3)NN2)C1            0.4122        
+OC1=CN[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NCC(F)N4)CC3)NN2)N1             0.3896        
+C=C1[N-]C=CN1->[Ag+]<-[C]1[N-]C=C(N2C=CNCC2)NN1                            0.3756        
+NC1CC(O)=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4C=C(O)CCC4)NN3)NN2)C1       0.3623        
+OC1=C(O)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)[N-]N1                  0.3493        
+NC(Cl)=C[N-][C](N)->[Ag+]<-[C]1[N-]C(N2C=C(O)CC2)=C(O)N1                   0.2898        
+OC1=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4CC(N5C=CNCC5)C4)NN3)NN2)CCC1     0.2811        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 39                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+C1=CN(->[Ag+]<-[C]2[N-]C=C(N3C=C(N4C=CNCC4)CCC3)NN2)C[N-]1                 0.9998        
+ClC1=C(N2NCC(N3C=CNCC3)CN2)N[C](->[Ag+]<-N2C=C[N-]C2)[N-]1                 0.9992        
+C=C1[N-]C=CN1->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=C(N2N=CNCN2)N1                  0.9975        
+C1=CN(->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)C(CN2C=CNC2)=C[N-]1               0.9904        
+OC1CNN(C2N[C](->[Ag+]<-[C]3[N-]C=CNN3)[N-]C2N2C=CNCC2)NC1                  0.9686        
+C=C1[N-]C=CN1->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=C(N2C=CNCC2)N1                  0.9669        
+N[C]([N-]C(=CN1N=CNCN1)N1C=CNSC1)->[Ag+]<-N1C=C[N-]C1                      0.9542        
+C1=CN(->[Ag+]<-[C]2[N-]C=C(N3C=CNCC3)N2)C[N-]1                             0.9535        
+ClC1CNN(C2=C(N3C=CNCC3)[N-][C](->[Ag+]<-N3C=C[N-]C3)N2)NC1                 0.9526        
+NC1CC(O)=CN(C2=C[N-]C=CN2->[Ag+]<-[C]2[N-]C=C(N3NCC(F)CN3)NN2)C1           0.8792        
+FC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.8576        
+FC1CNN(C2=C(N3C=CNCC3)[N-][C](->[Ag+]<-N3C=C[N-]C3)N2)NC1                  0.8110        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+N[C]([N-]C(=CN1NC=C(F)CN1)N1C=CNCC1)->[Ag+]<-N1C=C[N-]C1                   0.7346        
+NC1=C(N2C=C(O)CC2)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=C(O)N2)[N-]N1       0.7117        
+C=C1[N-]C=CN1->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=C(N2NCC(F)CN2)N1                0.6986        
+OC1=CN(C2=C(N3C=CNCC3)N[N-][C](->[Ag+]<-[C]3[N-]C=CNN3)N2)CC1              0.6940        
+C1=CN(->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=C(N3NCC(N4C=CNCC4)CN3)N2)C[N-]1        0.6230        
+FC1CNN(C2=C[N-][C](->[Ag+]<-N3C=C[N-]C=C3Cl)NN2)NC1                        0.6176        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+ONC1CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4C=C(O)CCC4)NN3)NN2)C1            0.4122        
+OC1=CN[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NCC(F)N4)CC3)NN2)N1             0.3896        
+C=C1[N-]C=CN1->[Ag+]<-[C]1[N-]C=C(N2C=CNCC2)NN1                            0.3756        
+NC1CC(O)=CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4C=C(O)CCC4)NN3)NN2)C1       0.3623        
+OC1=C(O)N[C](->[Ag+]<-[C]2[N-]C=C(N3C=C(Cl)CC3)NN2)[N-]N1                  0.3493        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 40                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+C1=CN(->[Ag+]<-[C]2[N-]C=C(N3C=C(N4C=CNCC4)CCC3)NN2)C[N-]1                 0.9998        
+ClC1=C(N2NCC(N3C=CNCC3)CN2)N[C](->[Ag+]<-N2C=C[N-]C2)[N-]1                 0.9992        
+C=C1[N-]C=CN1->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=C(N2N=CNCN2)N1                  0.9975        
+C1=CN(->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=C(N3N=CNCN3)NN2)C[N-]1                 0.9910        
+C1=CN(->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=CNN2)C(CN2C=CNC2)=C[N-]1               0.9904        
+OC1CNN(C2N[C](->[Ag+]<-[C]3[N-]C=CNN3)[N-]C2N2C=CNCC2)NC1                  0.9686        
+C=C1[N-]C=CN1->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=C(N2C=CNCC2)N1                  0.9669        
+N[C]([N-]C(=CN1N=CNCN1)N1C=CNSC1)->[Ag+]<-N1C=C[N-]C1                      0.9542        
+C1=CN(->[Ag+]<-[C]2[N-]C=C(N3C=CNCC3)N2)C[N-]1                             0.9535        
+ClC1CNN(C2=C(N3C=CNCC3)[N-][C](->[Ag+]<-N3C=C[N-]C3)N2)NC1                 0.9526        
+N=C1CCN(C2=C[N-][C](->[Ag+]<-N3C=C[N-]C3)N2)C=N1                           0.8941        
+NC1CC(O)=CN(C2=C[N-]C=CN2->[Ag+]<-[C]2[N-]C=C(N3NCC(F)CN3)NN2)C1           0.8792        
+FC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.8576        
+FC1CNN(C2=C(N3C=CNCC3)[N-][C](->[Ag+]<-N3C=C[N-]C3)N2)NC1                  0.8110        
+OC1=C(N2C=CNCC2)[N-][C](->[Ag+]<-N2C=C[N-]C2)N1                            0.7936        
+C1=CN(->[Ag+]<-[C]2NC(N3C=CNCC3)=C(N3NCC(N4C=NCCC4)CN3)N2)C[N-]1           0.7898        
+N[C]([N-]C(=CN1NC=C(F)CN1)N1C=CNCC1)->[Ag+]<-N1C=C[N-]C1                   0.7346        
+NC1=C(N2C=C(O)CC2)N[C](->[Ag+]<-[C]2[N-]C(N3C=C(O)CC3)=C(O)N2)[N-]N1       0.7117        
+C=C1[N-]C=CN1->[Ag+]<-[C]1[N-]C(N2C=CNCC2)=C(N2NCC(F)CN2)N1                0.6986        
+OC1=CN(C2=C(N3C=CNCC3)N[N-][C](->[Ag+]<-[C]3[N-]C=CNN3)N2)CC1              0.6940        
+C1=CN(->[Ag+]<-[C]2[N-]C(N3C=CNCC3)=C(N3NCC(N4C=CNCC4)CN3)N2)C[N-]1        0.6230        
+FC1CNN(C2=C[N-][C](->[Ag+]<-N3C=C[N-]C=C3Cl)NN2)NC1                        0.6176        
+FC1=CNN(C2=C(Cl)N[C](->[Ag+]<-N3C=C[N-]C=C3Cl)[N-]2)NC1                    0.4838        
+ONC1CN(C2=C[N-][C](->[Ag+]<-[C]3[N-]C=C(N4C=C(O)CCC4)NN3)NN2)C1            0.4122        
+OC1=CN[N-][C](->[Ag+]<-[C]2[N-]C=C(N3C=C(N4NCC(F)N4)CC3)NN2)N1             0.3896        
+=========================================================================================

@@ -1,0 +1,359 @@
+=========================================================================================
+                                      GA Parameters
+Parameter                                                                  Value
+-----------------------------------------------------------------------------------------
+Population Size                                                            25
+Number of Generations                                                      25
+Mutation Rate                                                              0.5000
+Selection Pressure                                                         1.5000
+
+-----------------------------------------------------------------------------------------
+                                     Molecule Options
+Parameter                                                                  Value
+-----------------------------------------------------------------------------------------
+Minimum Size                                                               1
+Minimum Size                                                               30
+
+=========================================================================================
+
+
+=========================================================================================
+                                       Generation 0
+SMILES                                                                     Score
+-----------------------------------------------------------------------------------------
+CC(C)N1CCN(C(C)C)[C]1->[Pd]<-n1cccc(F)c1                                   0.0388
+CC(C)P(C)(->[Pd]<-n1ccccc1F)C(C)C                                          0.0275
+CC(C)N1C=CN(C(C)C)[C]1->[Pd]<-[C]1N(C)C(Cl)=C(Cl)N1C                       0.0121
+Cc1ccccn1->[Pd]<-[C]1N(C(C)C)C=CN1C(C)C                                    0.0091
+CCN1CCN(CC)[C]1->[Pd]<-n1ccccc1OC                                          0.0082
+CN(C)c1ccn(->[Pd]<-[C]2N(C3CCCCC3)C=CN2C2CCCCC2)cc1                        0.0079
+Cc1cc(C)n(->[Pd]<-n2c(C)cccc2C)c(C)c1                                      0.0041
+CN1CCN(C)[C]1->[Pd]<-N(C)(C)C                                              0.0041
+Cc1cccn(->[Pd]<-[C]2N(C)C=CN2c2ccccc2)c1                                   0.0031
+CC(C)=O->[Pd]<-[C]1N(C(C)C)CCN1C(C)C                                       0.0022
+COc1ccn(->[Pd]<-[C]2NC(Cl)=C(Cl)N2)cc1                                     0.0009
+CN(C)(C)->[Pd]<-[C]1NC(Cl)=C(Cl)N1                                         0.0008
+ClC1=C(Cl)N[C](->[Pd]<-P(Cc2ccccc2)(c2ccccc2)c2ccccc2)N1                   0.0005
+CCN1C=CN(CC)[C]1->[Pd]<-N(C)(C)c1ccccc1                                    0.0004
+CN1CCN(c2ccccc2)[C]1->[Pd]<-[C]1NC(Cl)=C(Cl)N1                             0.0001
+CCN1CCN(CC)[C]1->[Pd]<-[C]1N(c2c(C)cc(C)cc2C)CCN1c1c(C)cc(C)cc1C           nan
+ClC1=C(Cl)N[C](->[Pd]<-P(C2CCCC2)(C2CCCC2)C2CCCC2)N1                       nan
+CCCCN1c2ccccc2N(Cc2ccccc2)[C]1->[Pd]<-P12NCC(C)(CN1)CN2                    nan
+CC1=C(C)N(C)[C](->[Pd]<-o2cccc2)N1C                                        nan
+COc1ccccc1P(->[Pd]<-[C]1N(C)CCN1C)(c1ccccc1)c1ccccc1                       nan
+Cc1cc(C)c(N2C=CN(c3c(C)cc(C)cc3C)[C]2->[Pd]<-n2c(F)cc(F)cc2F)c(C)c1        nan
+Cc1cccc(P(->[Pd]<-n2ccccc2Cl)(c2cccc(C)c2)c2cccc(C)c2)c1                   nan
+COc1cccn(->[Pd]<-[C]2N(Cc3ccccc3)c3ccccc3N2C(C)C)c1                        nan
+CCN1CCN(CC)[C]1->[Pd]<-P(c1ccccc1C)(C1CCCCC1)C1CCCCC1                      nan
+CN(C)(->[Pd]<-P(C1CCCC1)(C1CCCC1)C1CCCC1)c1ccccc1                          nan
+=========================================================================================
+
+=========================================================================================
+                                       Generation 1
+SMILES                                                                     Score
+-----------------------------------------------------------------------------------------
+FP(F)(F)->[Pd]<-[C]1NC(Cl)=C(Cl)N1                                         0.6657
+Cc1cccn(->[Pd]<-n2c(F)cc(F)cc2F)c1                                         0.3004
+COc1ccn(->[Pd]<-n2cccc(F)c2)cc1                                            0.1760
+CN(C)(C)->[Pd]<-n1cccc(F)c1                                                0.1453
+CN(C)c1ccn(->[Pd]<-n2cccc(Cl)c2)cc1                                        0.1254
+CC12COP(->[Pd]<-[C]3NC(Cl)=C(Cl)N3)(OC1)OC2                                0.0869
+Cc1ccn(->[Pd]<-N(C)(C)C)cc1                                                0.0728
+CN(C)c1ccn(->[Pd]<-P(C)(C)C)cc1                                            0.0440
+CC(C)N1CCN(C(C)C)[C]1->[Pd]<-n1cccc(F)c1                                   0.0388
+Cc1ccccn1->[Pd]<-N(C)(C)c1ccccc1                                           0.0287
+CC(C)P(C)(->[Pd]<-n1ccccc1F)C(C)C                                          0.0275
+Cc1cc(C)n(->[Pd]<-P(C)(C(C)C)C(C)C)c(C)c1                                  0.0173
+CC(C)(C)P(C)(C)->[Pd]<-N(C)(C)C                                            0.0167
+COc1ccccn1->[Pd]<-n1c(C)cc(C)cc1C                                          0.0166
+CN1CCN(c2ccccc2)[C]1->[Pd]<-P(C)(C)C                                       0.0122
+CC(C)N1C=CN(C(C)C)[C]1->[Pd]<-[C]1N(C)C(Cl)=C(Cl)N1C                       0.0121
+CN1CCN(c2ccccc2)[C]1->[Pd]<-n1ccccc1F                                      0.0110
+COc1ccn(->[Pd]<-[C]2N(C3CCCCC3)C=CN2C2CCCCC2)cc1                           0.0108
+Cc1ccccn1->[Pd]<-[C]1N(C(C)C)C=CN1C(C)C                                    0.0091
+CCN1CCN(CC)[C]1->[Pd]<-n1ccccc1OC                                          0.0082
+CN(C)c1ccn(->[Pd]<-[C]2N(C3CCCCC3)C=CN2C2CCCCC2)cc1                        0.0079
+CC(C)=O->[Pd]<-[C]1N(C)CCN1C                                               0.0054
+Cc1cc(C)n(->[Pd]<-n2c(C)cccc2C)c(C)c1                                      0.0041
+CN1CCN(C)[C]1->[Pd]<-N(C)(C)C                                              0.0041
+CN1CCN(c2ccccc2)[C]1->[Pd]<-n1cccc(F)c1                                    0.0034
+=========================================================================================
+
+=========================================================================================
+                                       Generation 2
+SMILES                                                                     Score
+-----------------------------------------------------------------------------------------
+Cc1ccccc1P(->[Pd]<-P(F)(F)F)(c1ccccc1)c1ccccc1                             0.9967
+CN1CCN(C)[C]1->[Pd]<-P(F)(F)F                                              0.9761
+CC(C)N1CC2(C)CN(C(C)C)P1(->[Pd]<-P(C)(C)C)N(C(C)C)C2                       0.8247
+FP(F)(F)->[Pd]<-[C]1NC(Cl)=C(Cl)N1                                         0.6657
+CC12COP(->[Pd]<-P(C)(C)C)(OC1)OC2                                          0.6281
+COP(OC)(OC)->[Pd]<-n1cccc(F)c1                                             0.5736
+FP(F)(F)->[Pd]<-o1cccc1                                                    0.3563
+Cc1cccn(->[Pd]<-n2c(F)cc(F)cc2F)c1                                         0.3004
+Cc1cccn(->[Pd]<-P(c2ccc(Cl)cc2)(c2ccc(Cl)cc2)c2ccc(Cl)cc2)c1               0.2514
+COc1ccn(->[Pd]<-n2cccc(F)c2)cc1                                            0.1760
+CN(C)(C)->[Pd]<-n1cccc(F)c1                                                0.1453
+CN(C)c1ccn(->[Pd]<-n2cccc(Cl)c2)cc1                                        0.1254
+Cc1ccccn1->[Pd]<-n1cccc(F)c1                                               0.1138
+CC12COP(->[Pd]<-[C]3NC(Cl)=C(Cl)N3)(OC1)OC2                                0.0869
+Cc1ccn(->[Pd]<-N(C)(C)C)cc1                                                0.0728
+CN(C)(C)->[Pd]<-P(C)(C)c1ccccc1                                            0.0535
+CC(C)(C)P(C)(C)->[Pd]<-n1c(F)cc(F)cc1F                                     0.0454
+CN(C)c1ccn(->[Pd]<-P(C)(C)C)cc1                                            0.0440
+CC(C)N1CCN(C(C)C)[C]1->[Pd]<-n1cccc(F)c1                                   0.0388
+Cc1ccccn1->[Pd]<-N(C)(C)C                                                  0.0331
+Cc1ccccn1->[Pd]<-N(C)(C)c1ccccc1                                           0.0287
+CC(C)P(C)(->[Pd]<-n1ccccc1F)C(C)C                                          0.0275
+Cc1cc(C)n(->[Pd]<-P(C)(C(C)C)C(C)C)c(C)c1                                  0.0173
+CC(C)(C)P(C)(C)->[Pd]<-N(C)(C)C                                            0.0167
+COc1ccccn1->[Pd]<-n1c(C)cc(C)cc1C                                          0.0166
+=========================================================================================
+
+=========================================================================================
+                                       Generation 3
+SMILES                                                                     Score
+-----------------------------------------------------------------------------------------
+Cc1ccccc1P(->[Pd]<-P(F)(F)F)(c1ccccc1)c1ccccc1                             0.9967
+CN1CCN(C)[C]1->[Pd]<-P(F)(F)F                                              0.9761
+CC(C)(C)P(->[Pd]<-n1c(F)cc(F)cc1F)(C(C)(C)C)C(C)(C)C                       0.9511
+CC(C)N1CC2(C)CN(C(C)C)P1(->[Pd]<-P(C)(C)C)N(C(C)C)C2                       0.8247
+FP(F)(F)->[Pd]<-[C]1NC(Cl)=C(Cl)N1                                         0.6657
+CC12COP(->[Pd]<-P(C)(C)C)(OC1)OC2                                          0.6281
+COP(OC)(OC)->[Pd]<-n1cccc(F)c1                                             0.5736
+CN(C)(C)->[Pd]<-P(F)(F)F                                                   0.5659
+CN(C)(->[Pd]<-P(F)(F)F)c1ccccc1                                            0.5144
+[O+]#[C-]->[Pd]<-n1cccc(F)c1                                               0.4522
+FP(F)(F)->[Pd]<-o1cccc1                                                    0.3563
+Cc1cccn(->[Pd]<-n2c(F)cc(F)cc2F)c1                                         0.3004
+Cc1cccn(->[Pd]<-P(c2ccc(Cl)cc2)(c2ccc(Cl)cc2)c2ccc(Cl)cc2)c1               0.2514
+Cc1cccn(->[Pd]<-P(c2ccccc2)(c2ccccc2)c2ccccc2C)c1                          0.1775
+COc1ccn(->[Pd]<-n2cccc(F)c2)cc1                                            0.1760
+COc1cccn(->[Pd]<-n2cccc(Cl)c2)c1                                           0.1722
+CN(C)(C)->[Pd]<-n1cccc(F)c1                                                0.1453
+CN(C)c1ccn(->[Pd]<-n2cccc(Cl)c2)cc1                                        0.1254
+Cc1ccccn1->[Pd]<-n1cccc(F)c1                                               0.1138
+Fc1cccn(->[Pd]<-N2=CN(c3ccccc3)CC2)c1                                      0.1036
+CC12COP(->[Pd]<-[C]3NC(Cl)=C(Cl)N3)(OC1)OC2                                0.0869
+Cc1ccn(->[Pd]<-N(C)(C)C)cc1                                                0.0728
+[O+]#[C-]->[Pd]<-P(F)(F)F                                                  0.0606
+Cc1ccn(->[Pd]<-P(C)(C)C)cc1                                                0.0598
+COc1ccn(->[Pd]<-o2cccc2)cc1                                                0.0547
+=========================================================================================
+
+=========================================================================================
+                                       Generation 4
+SMILES                                                                     Score
+-----------------------------------------------------------------------------------------
+CP(C)(C)->[Pd]<-P(F)(F)F                                                   0.9994
+Cc1ccccc1P(->[Pd]<-P(F)(F)F)(c1ccccc1)c1ccccc1                             0.9967
+Cc1cccn(->[Pd]<-P23OCC(C)(CO2)CO3)c1                                       0.9792
+CN1CCN(C)[C]1->[Pd]<-P(F)(F)F                                              0.9761
+CC(C)(C)P(->[Pd]<-n1c(F)cc(F)cc1F)(C(C)(C)C)C(C)(C)C                       0.9511
+[O+]#[C-]->[Pd]<-P(c1ccccc1)(c1ccccc1)C1CCCCC1                             0.8967
+CC(C)N1CC2(C)CN(C(C)C)P1(->[Pd]<-P(C)(C)C)N(C(C)C)C2                       0.8247
+FP(F)(F)->[Pd]<-[C]1NC(Cl)=C(Cl)N1                                         0.6657
+CC12COP(->[Pd]<-P(C)(C)C)(OC1)OC2                                          0.6281
+COc1ccccn1->[Pd]<-P(OC)(OC)OC                                              0.5884
+COP(OC)(OC)->[Pd]<-n1cccc(F)c1                                             0.5736
+CN(C)(C)->[Pd]<-P(F)(F)F                                                   0.5659
+CC(C)N1CC2(C)CN(C(C)C)P1(->[Pd]<-n1c(F)cc(F)cc1F)N(C(C)C)C2                0.5519
+FP(F)(F)->[Pd]<-n1cccc(Cl)c1                                               0.5177
+CN(C)(->[Pd]<-P(F)(F)F)c1ccccc1                                            0.5144
+Fc1cccn(->[Pd]<-P(F)(F)F)c1                                                0.5047
+Cc1ccn(->[Pd]<-[C-]#[O+])cc1                                               0.4934
+Cc1ccn(->[Pd]<-P(Cl)(Cl)Cl)cc1                                             0.4608
+[O+]#[C-]->[Pd]<-n1cccc(F)c1                                               0.4522
+CC12COP(->[Pd]<-P(F)(F)F)(OC1)OC2                                          0.4114
+FP(F)(F)->[Pd]<-o1cccc1                                                    0.3563
+Cc1cccn(->[Pd]<-n2c(F)cc(F)cc2F)c1                                         0.3004
+Cc1cccn(->[Pd]<-P(c2ccc(Cl)cc2)(c2ccc(Cl)cc2)c2ccc(Cl)cc2)c1               0.2514
+Cc1cccn(->[Pd]<-n2cccc(F)c2)c1                                             0.2146
+CC12CNP(->[Pd]<-P(F)(F)F)(NC1)NC2                                          0.2119
+=========================================================================================
+
+=========================================================================================
+                                       Generation 5
+SMILES                                                                     Score
+-----------------------------------------------------------------------------------------
+CP(C)(C)->[Pd]<-P(F)(F)F                                                   0.9994
+Cc1ccccc1P(->[Pd]<-P(F)(F)F)(c1ccccc1)c1ccccc1                             0.9967
+CC12COP(->[Pd]<-n3cccc(F)c3)(OC1)OC2                                       0.9808
+Cc1cccn(->[Pd]<-P23OCC(C)(CO2)CO3)c1                                       0.9792
+CN1CCN(C)[C]1->[Pd]<-P(F)(F)F                                              0.9761
+COc1ccn(->[Pd]<-P23OCC(C)(CO2)CO3)cn1                                      0.9665
+CC(C)(C)P(->[Pd]<-n1c(F)cc(F)cc1F)(C(C)(C)C)C(C)(C)C                       0.9511
+CC12COP(->[Pd]<-n3ccc(F)cc3)(OC1)OC2                                       0.9366
+[O+]#[C-]->[Pd]<-P(c1ccccc1)(c1ccccc1)C1CCCCC1                             0.8967
+CC(C)N1CC2(C)CN(C(C)C)P1(->[Pd]<-P(C)(C)C)N(C(C)C)C2                       0.8247
+FP(F)(F)->[Pd]<-[C]1NC(Cl)=C(Cl)N1                                         0.6657
+CC12COP(->[Pd]<-P(C)(C)C)(OC1)OC2                                          0.6281
+COc1ccccn1->[Pd]<-P(OC)(OC)OC                                              0.5884
+COP(OC)(OC)->[Pd]<-n1cccc(F)c1                                             0.5736
+CN(C)(C)->[Pd]<-P(F)(F)F                                                   0.5659
+COP(OC)(OC)->[Pd]<-n1cccc(Cl)c1                                            0.5620
+COP(OC)(OC)->[Pd]<-n1c(C)cccc1C                                            0.5573
+CC(C)N1CC2(C)CN(C(C)C)P1(->[Pd]<-n1c(F)cc(F)cc1F)N(C(C)C)C2                0.5519
+FP(F)(F)->[Pd]<-n1cccc(Cl)c1                                               0.5177
+CN(C)(->[Pd]<-P(F)(F)F)c1ccccc1                                            0.5144
+FP(F)(F)->[Pd]<-N1=C(c2ccccc2)NCC1                                         0.5054
+Fc1cccn(->[Pd]<-P(F)(F)F)c1                                                0.5047
+Cc1ccn(->[Pd]<-[C-]#[O+])cc1                                               0.4934
+CC(C)=O->[Pd]<-P12N(C(C)C)CC(C)(CN1C(C)C)CN2C(C)C                          0.4848
+Cc1ccn(->[Pd]<-P(Cl)(Cl)Cl)cc1                                             0.4608
+=========================================================================================
+
+=========================================================================================
+                                       Generation 6
+SMILES                                                                     Score
+-----------------------------------------------------------------------------------------
+CP(C)(C)->[Pd]<-P(F)(F)F                                                   0.9994
+CCOP(OCC)(->[Pd]<-P(F)(F)F)c1ccccc1                                        0.9988
+Cc1ccccc1P(->[Pd]<-P(F)(F)F)(c1ccccc1)c1ccccc1                             0.9967
+CC(=O)c1ccc2cccn(->[Pd]<-P(F)(F)F)c2c1                                     0.9833
+CC12COP(->[Pd]<-n3cccc(F)c3)(OC1)OC2                                       0.9808
+Cc1cccn(->[Pd]<-P23OCC(C)(CO2)CO3)c1                                       0.9792
+CN1CCN(C)[C]1->[Pd]<-P(F)(F)F                                              0.9761
+CP(->[Pd]<-P(F)(F)F)(c1ccccc1)c1ccccc1                                     0.9747
+COc1ccn(->[Pd]<-P23OCC(C)(CO2)CO3)cn1                                      0.9665
+CC(C)(C)P(->[Pd]<-n1c(F)cc(F)cc1F)(C(C)(C)C)C(C)(C)C                       0.9511
+CC12COP(->[Pd]<-n3ccc(F)cc3)(OC1)OC2                                       0.9366
+[O+]#[C-]->[Pd]<-P(c1ccccc1)(c1ccccc1)C1CCCCC1                             0.8967
+CC(C)(C)P(C)(C)->[Pd]<-P(F)(F)F                                            0.8679
+CC(C)N1CC2(C)CN(C(C)C)P1(->[Pd]<-P(C)(C)C)N(C(C)C)C2                       0.8247
+Cc1ccccc1P(->[Pd]<-P(Cl)(Cl)Cl)(c1ccccc1)c1ccccc1                          0.7993
+FP(F)(F)->[Pd]<-[C]1NC(Cl)=C(Cl)N1                                         0.6657
+CP(C)(C)->[Pd]<-P(Cl)(Cl)Cl                                                0.6476
+CC12COP(->[Pd]<-P(C)(C)C)(OC1)OC2                                          0.6281
+COc1ccccn1->[Pd]<-P(OC)(OC)OC                                              0.5884
+COP(OC)(OC)->[Pd]<-n1cccc(F)c1                                             0.5736
+CN(C)(C)->[Pd]<-P(F)(F)F                                                   0.5659
+COP(OC)(OC)->[Pd]<-n1cccc(Cl)c1                                            0.5620
+COP(OC)(OC)->[Pd]<-n1c(C)cccc1C                                            0.5573
+CC(C)N1CC2(C)CN(C(C)C)P1(->[Pd]<-n1c(F)cc(F)cc1F)N(C(C)C)C2                0.5519
+Fc1ccn(->[Pd]<-P(F)(F)F)cc1                                                0.5271
+=========================================================================================
+
+=========================================================================================
+                                       Generation 7
+SMILES                                                                     Score
+-----------------------------------------------------------------------------------------
+CP(C)(C)->[Pd]<-P(F)(F)F                                                   0.9994
+CCOP(OCC)(->[Pd]<-P(F)(F)F)c1ccccc1                                        0.9988
+CC(=O)c1ccc2cccn(->[Pd]<-P34OCC(C)(CO3)CO4)c2c1                            0.9987
+Cc1ccccc1P(->[Pd]<-P(F)(F)F)(c1ccccc1)c1ccccc1                             0.9967
+CC(C)N1CCN(C(C)C)[C]1->[Pd]<-P(F)(F)F                                      0.9871
+CC(=O)c1ccc2cccn(->[Pd]<-P(F)(F)F)c2c1                                     0.9833
+CC12COP(->[Pd]<-n3cccc(F)c3)(OC1)OC2                                       0.9808
+Cc1cccn(->[Pd]<-P23OCC(C)(CO2)CO3)c1                                       0.9792
+CN1CCN(C)[C]1->[Pd]<-P(F)(F)F                                              0.9761
+CP(->[Pd]<-P(F)(F)F)(c1ccccc1)c1ccccc1                                     0.9747
+CC12COP(->[Pd]<-n3c(F)cc(F)cc3F)(OC1)OC2                                   0.9700
+COc1ccn(->[Pd]<-P23OCC(C)(CO2)CO3)cn1                                      0.9665
+CC(C)N1CCN(C(C)C)[C]1->[Pd]<-[C-]#[O+]                                     0.9536
+CC(C)(C)P(->[Pd]<-n1c(F)cc(F)cc1F)(C(C)(C)C)C(C)(C)C                       0.9511
+CC12COP(->[Pd]<-n3ccc(F)cc3)(OC1)OC2                                       0.9366
+[O+]#[C-]->[Pd]<-P(c1ccccc1)(c1ccccc1)C1CCCCC1                             0.8967
+CC(C)(C)P(C)(C)->[Pd]<-P(F)(F)F                                            0.8679
+CC(C)N1CC2(C)CN(C(C)C)P1(->[Pd]<-P(C)(C)C)N(C(C)C)C2                       0.8247
+CC(C)N1C=CN(C(C)C)[C]1->[Pd]<-P(F)(F)F                                     0.8178
+Cc1ccccc1P(->[Pd]<-P(Cl)(Cl)Cl)(c1ccccc1)c1ccccc1                          0.7993
+FP(F)(F)->[Pd]<-[C]1NC(Cl)=C(Cl)N1                                         0.6657
+CP(C)(C)->[Pd]<-P(Cl)(Cl)Cl                                                0.6476
+COc1cccn(->[Pd]<-P(F)(F)F)c1                                               0.6344
+CC12COP(->[Pd]<-P(C)(C)C)(OC1)OC2                                          0.6281
+COc1ccccn1->[Pd]<-P(OC)(OC)OC                                              0.5884
+=========================================================================================
+
+=========================================================================================
+                                       Generation 8
+SMILES                                                                     Score
+-----------------------------------------------------------------------------------------
+CP(C)(C)->[Pd]<-P(F)(F)F                                                   0.9994
+CC(C)(C)CP(->[Pd]<-P12OCC(C)(CO1)CO2)(C(C)(C)C)C(C)(C)C                    0.9989
+CCOP(OCC)(->[Pd]<-P(F)(F)F)c1ccccc1                                        0.9988
+CC(=O)c1ccc2cccn(->[Pd]<-P34OCC(C)(CO3)CO4)c2c1                            0.9987
+CC12COP(->[Pd]<-[C]3N(C(C)(C)C)C=CN3C(C)(C)C)(OC1)OC2                      0.9981
+Cc1ccccc1P(->[Pd]<-P(F)(F)F)(c1ccccc1)c1ccccc1                             0.9967
+CC(C)N1CCN(C(C)C)[C]1->[Pd]<-P(F)(F)F                                      0.9871
+CP(->[Pd]<-[C-]#[O+])(c1ccccc1)c1ccccc1                                    0.9866
+CC(=O)c1ccc2cccn(->[Pd]<-P(F)(F)F)c2c1                                     0.9833
+CC12COP(->[Pd]<-n3cccc(F)c3)(OC1)OC2                                       0.9808
+Cc1cccn(->[Pd]<-P23OCC(C)(CO2)CO3)c1                                       0.9792
+CN1CCN(C)[C]1->[Pd]<-P(F)(F)F                                              0.9761
+CP(->[Pd]<-P(F)(F)F)(c1ccccc1)c1ccccc1                                     0.9747
+CC12COP(->[Pd]<-n3c(F)cc(F)cc3F)(OC1)OC2                                   0.9700
+COc1ccn(->[Pd]<-P23OCC(C)(CO2)CO3)cn1                                      0.9665
+CCOP(OCC)(->[Pd]<-[C-]#[O+])c1ccccc1                                       0.9561
+CC(C)N1CCN(C(C)C)[C]1->[Pd]<-[C-]#[O+]                                     0.9536
+CC(C)(C)P(->[Pd]<-n1c(F)cc(F)cc1F)(C(C)(C)C)C(C)(C)C                       0.9511
+CC12COP(->[Pd]<-n3ccc(F)cc3)(OC1)OC2                                       0.9366
+CCN1CCN(CC)[C]1->[Pd]<-P(F)(F)F                                            0.9276
+COc1cccn(->[Pd]<-P23OCC(C)(CO2)CO3)c1                                      0.9211
+[O+]#[C-]->[Pd]<-P(c1ccccc1)(c1ccccc1)C1CCCCC1                             0.8967
+CC(C)(C)P(C)(C)->[Pd]<-P(F)(F)F                                            0.8679
+CC(C)N1CC2(C)CN(C(C)C)P1(->[Pd]<-P(C)(C)C)N(C(C)C)C2                       0.8247
+CC(C)N1C=CN(C(C)C)[C]1->[Pd]<-P(F)(F)F                                     0.8178
+=========================================================================================
+
+=========================================================================================
+                                       Generation 9
+SMILES                                                                     Score
+-----------------------------------------------------------------------------------------
+CP(C)(C)->[Pd]<-P(F)(F)F                                                   0.9994
+CC(C)(C)CP(->[Pd]<-P12OCC(C)(CO1)CO2)(C(C)(C)C)C(C)(C)C                    0.9989
+CCOP(OCC)(->[Pd]<-P(F)(F)F)c1ccccc1                                        0.9988
+CC(=O)c1ccc2cccn(->[Pd]<-P34OCC(C)(CO3)CO4)c2c1                            0.9987
+CC12COP(->[Pd]<-[C]3N(C(C)(C)C)C=CN3C(C)(C)C)(OC1)OC2                      0.9981
+COc1ccccn1->[Pd]<-P12OCC(C)(CO1)CO2                                        0.9969
+Cc1ccccc1P(->[Pd]<-P(F)(F)F)(c1ccccc1)c1ccccc1                             0.9967
+CC(C)N1CCN(C(C)C)[C]1->[Pd]<-P(F)(F)F                                      0.9871
+CP(->[Pd]<-[C-]#[O+])(c1ccccc1)c1ccccc1                                    0.9866
+CC(=O)c1ccc2cccn(->[Pd]<-P(F)(F)F)c2c1                                     0.9833
+CC12COP(->[Pd]<-n3cccc(F)c3)(OC1)OC2                                       0.9808
+Cc1cccn(->[Pd]<-P23OCC(C)(CO2)CO3)c1                                       0.9792
+CN1CCN(C)[C]1->[Pd]<-P(F)(F)F                                              0.9761
+Cc1ccn(->[Pd]<-P23OCC(C)(CO2)CO3)cc1                                       0.9750
+CP(->[Pd]<-P(F)(F)F)(c1ccccc1)c1ccccc1                                     0.9747
+CC12COP(->[Pd]<-n3c(F)cc(F)cc3F)(OC1)OC2                                   0.9700
+COc1ccn(->[Pd]<-P23OCC(C)(CO2)CO3)cn1                                      0.9665
+CCOP(OCC)(->[Pd]<-[C-]#[O+])c1ccccc1                                       0.9561
+CC(C)N1CCN(C(C)C)[C]1->[Pd]<-[C-]#[O+]                                     0.9536
+CC(C)(C)P(->[Pd]<-n1c(F)cc(F)cc1F)(C(C)(C)C)C(C)(C)C                       0.9511
+CC12COP(->[Pd]<-n3ccc(F)cc3)(OC1)OC2                                       0.9366
+CCN1CCN(CC)[C]1->[Pd]<-P(F)(F)F                                            0.9276
+CC1=C(C)N(C)[C](->[Pd]<-P(F)(F)F)N1C                                       0.9261
+COc1cccn(->[Pd]<-P23OCC(C)(CO2)CO3)c1                                      0.9211
+[O+]#[C-]->[Pd]<-P(c1ccccc1)(c1ccccc1)C1CCCCC1                             0.8967
+=========================================================================================
+
+=========================================================================================
+                                      Generation 10
+SMILES                                                                     Score
+-----------------------------------------------------------------------------------------
+CP(C)(C)->[Pd]<-P(F)(F)F                                                   0.9994
+CC(C)(C)CP(->[Pd]<-P12OCC(C)(CO1)CO2)(C(C)(C)C)C(C)(C)C                    0.9989
+CCOP(OCC)(->[Pd]<-P(F)(F)F)c1ccccc1                                        0.9988
+CC(=O)c1ccc2cccn(->[Pd]<-P34OCC(C)(CO3)CO4)c2c1                            0.9987
+CC12COP(->[Pd]<-[C]3N(C(C)(C)C)C=CN3C(C)(C)C)(OC1)OC2                      0.9981
+COc1ccccn1->[Pd]<-P12OCC(C)(CO1)CO2                                        0.9969
+Cc1ccccc1P(->[Pd]<-P(F)(F)F)(c1ccccc1)c1ccccc1                             0.9967
+CN1CCN(C)[C]1->[Pd]<-[C-]#[O+]                                             0.9927
+CC(C)N1CCN(C(C)C)[C]1->[Pd]<-P(F)(F)F                                      0.9871
+CP(->[Pd]<-[C-]#[O+])(c1ccccc1)c1ccccc1                                    0.9866
+CC(=O)c1ccc2cccn(->[Pd]<-P(F)(F)F)c2c1                                     0.9833
+CC12COP(->[Pd]<-n3cccc(F)c3)(OC1)OC2                                       0.9808
+Cc1cccn(->[Pd]<-P23OCC(C)(CO2)CO3)c1                                       0.9792
+CN1CCN(C)[C]1->[Pd]<-P(F)(F)F                                              0.9761
+Cc1ccn(->[Pd]<-P23OCC(C)(CO2)CO3)cc1                                       0.9750
+CP(->[Pd]<-P(F)(F)F)(c1ccccc1)c1ccccc1                                     0.9747
+CC12COP(->[Pd]<-n3c(F)cc(F)cc3F)(OC1)OC2                                   0.9700
+COc1ccn(->[Pd]<-P23OCC(C)(CO2)CO3)cn1                                      0.9665
+CCOP(OCC)(->[Pd]<-[C-]#[O+])c1ccccc1                                       0.9561
+CC(C)N1CCN(C(C)C)[C]1->[Pd]<-[C-]#[O+]                                     0.9536
+CC(C)(C)P(->[Pd]<-n1c(F)cc(F)cc1F)(C(C)(C)C)C(C)(C)C                       0.9511
+CC12COP(->[Pd]<-n3ccc(F)cc3)(OC1)OC2                                       0.9366
+CCN1CCN(CC)[C]1->[Pd]<-P(F)(F)F                                            0.9276
+CC1=C(C)N(C)[C](->[Pd]<-P(F)(F)F)N1C                                       0.9261
+COc1cccn(->[Pd]<-P23OCC(C)(CO2)CO3)c1                                      0.9211
+=========================================================================================

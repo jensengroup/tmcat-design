@@ -1,0 +1,1289 @@
+=========================================================================================
+                                      GA Parameters                                      
+Parameter                                                                  Value         
+-----------------------------------------------------------------------------------------
+Population Size                                                            25            
+Number of Generations                                                      50            
+Mutation Rate                                                              0.7500        
+Selection Pressure                                                         1.5000        
+
+-----------------------------------------------------------------------------------------
+                                     Molecule Options                                    
+Parameter                                                                  Value         
+-----------------------------------------------------------------------------------------
+Minimum Size                                                               1             
+Maximum Size                                                               30            
+
+=========================================================================================
+
+
+=========================================================================================
+                                       Generation 0                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+Cc1cc(C)c(N2C=CN(c3c(C)cc(C)cc3C)[C]2->[Cu+]<-n2c(F)cc(F)cc2F)c(C)c1       0.0000        
+ClC1=C(Cl)N[C](->[Cu+]<-P(Cc2ccccc2)(c2ccccc2)c2ccccc2)N1                  0.0000        
+COc1ccccc1P(->[Cu+]<-[C]1N(C)CCN1C)(c1ccccc1)c1ccccc1                      0.0000        
+ClC1=C(Cl)N[C](->[Cu+]<-P(C2CCCC2)(C2CCCC2)C2CCCC2)N1                      0.0000        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-[C]1NC(Cl)=C(Cl)N1                            0.0000        
+CCN1C=CN(CC)[C]1->[Cu+]<-N(C)(C)c1ccccc1                                   0.0000        
+CN1CCN(C)[C]1->[Cu+]<-N(C)(C)C                                             0.0000        
+CN(C)(->[Cu+]<-P(C1CCCC1)(C1CCCC1)C1CCCC1)c1ccccc1                         0.0000        
+CC(C)N1CCN(C(C)C)[C]1->[Cu+]<-n1cccc(F)c1                                  0.0000        
+CC(C)P(C)(->[Cu+]<-n1ccccc1F)C(C)C                                         0.0000        
+CC(C)N1C=CN(C(C)C)[C]1->[Cu+]<-[C]1N(C)C(Cl)=C(Cl)N1C                      0.0000        
+Cc1ccccn1->[Cu+]<-[C]1N(C(C)C)C=CN1C(C)C                                   0.0000        
+COc1ccn(->[Cu+]<-[C]2NC(Cl)=C(Cl)N2)cc1                                    0.0000        
+CCN1CCN(CC)[C]1->[Cu+]<-n1ccccc1OC                                         0.0000        
+CC(C)=O->[Cu+]<-[C]1N(C(C)C)CCN1C(C)C                                      0.0000        
+CN(C)(C)->[Cu+]<-[C]1NC(Cl)=C(Cl)N1                                        0.0000        
+COc1cccn(->[Cu+]<-[C]2N(Cc3ccccc3)c3ccccc3N2C(C)C)c1                       0.0000        
+Cc1cccn(->[Cu+]<-[C]2N(C)C=CN2c2ccccc2)c1                                  0.0000        
+CC1=C(C)N(C)[C](->[Cu+]<-o2cccc2)N1C                                       0.0000        
+CN(C)c1ccn(->[Cu+]<-[C]2N(C3CCCCC3)C=CN2C2CCCCC2)cc1                       0.0000        
+Cc1cc(C)n(->[Cu+]<-n2c(C)cccc2C)c(C)c1                                     0.0000        
+CCN1CCN(CC)[C]1->[Cu+]<-[C]1N(c2c(C)cc(C)cc2C)CCN1c1c(C)cc(C)cc1C          nan           
+CCCCN1c2ccccc2N(Cc2ccccc2)[C]1->[Cu+]<-P12NCC(C)(CN1)CN2                   nan           
+Cc1cccc(P(->[Cu+]<-n2ccccc2Cl)(c2cccc(C)c2)c2cccc(C)c2)c1                  nan           
+CCN1CCN(CC)[C]1->[Cu+]<-P(c1ccccc1C)(C1CCCCC1)C1CCCCC1                     nan           
+=========================================================================================
+
+=========================================================================================
+                                       Generation 1                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CC1=C(Cl)N(->[Cu+]<-N2=CC=COC2)C=CN1C                                      0.0131        
+CN(C)c1ccn(->[Cu+]<-[C]2N(C)C=NCN2c2ccn(C3CCCCC3)c2)cc1                    0.0093        
+C=C(C)C=C(C)N(=CC)->[Cu+]<-[C]1N(c2ccccc2)C=CN1c1cccc(C)n1                 0.0057        
+CNN(C)(C)->[Cu+]<-[C]1NC(Cl)=C(C2=C(Cl)N[C]N2)N1                           0.0006        
+COC1=CN(->[Cu+]<-n2ccc(N(C)C)cc2)(C2CCCCC2)C=CC1                           0.0004        
+CCN1CCN(CC)[C]1->[Cu+]<-[C]1CC(C)=CN1C(C)C                                 0.0001        
+CC(C)=O->[Cu+]<-N1(C(C)C)C=CCCC1                                           0.0000        
+CC=CC=N(CF)->[Cu+]<-P(C)(C(C)C)C(C)c1cc(F)nc(F)c1                          0.0000        
+CN(C)C1=C(Cl)N[C](->[Cu+]<-P(C2CCCC2)(C2CCCC2)C2CCCC2)N1                   0.0000        
+CN1CCN(C)[C]1->[Cu+]<-[C]1NC(Cl)=C(Cl)N1                                   0.0000        
+ClC1=C(Cl)N[C](->[Cu+]<-N2=CC3(CC=C2)CCCC3)N1                              0.0000        
+CN1CCN(C)[C]1->[Cu+]<-N(C)(C)C1C=CC=N1                                     0.0000        
+Cc1cccn(->[Cu+]<-[C]2NC=CN2c2cc(F)cc(F)n2)c1                               0.0000        
+Cc1cccn1(C)->[Cu+]<-[C]1N(C)CCN1CN                                         0.0000        
+CC1=C(Cl)N[C](->[Cu+]<-[C]2NCCN2C)N1                                       0.0000        
+CC(C)N1C=CN(C)[C]1->[Cu+]<-[C]1N(C)CC(S)N1C                                0.0000        
+Cc1cc(C)c(N2C=CN(c3c(C)cc(C)cc3C)[C]2->[Cu+]<-n2c(F)cc(F)cc2F)c(C)c1       0.0000        
+Cc1cccn(->[Cu+]<-N2(C)C=CCCC2)c1                                           0.0000        
+ClC1=C(Cl)N[C](->[Cu+]<-P(Cc2ccccc2)(c2ccccc2)c2ccccc2)N1                  0.0000        
+COc1ccccc1P(->[Cu+]<-[C]1N(C)CCN1C)(c1ccccc1)c1ccccc1                      0.0000        
+ClC1=C(Cl)N[C](->[Cu+]<-P(C2CCCC2)(C2CCCC2)C2CCCC2)N1                      0.0000        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-[C]1NC(Cl)=C(Cl)N1                            0.0000        
+CCN1C=CN(CC)[C]1->[Cu+]<-N(C)(C)c1ccccc1                                   0.0000        
+=========================================================================================
+
+=========================================================================================
+                                       Generation 2                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CN(->[Cu+]<-[C]1NC(Cl)=C(C2=C(Cl)N[C]N2)N1)N1C=CN(c2ccccc2)C=C1            0.0618        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-[C]1N(c2ccccc2)C=CN1c1cccc(C)n1                0.0593        
+CN1C=C(N(C)(C)->[Cu+]<-[C]2N(C)C=NCN2C2C=CN(C3CCCCC3)C=C2)CC1              0.0205        
+CC1=C(Cl)N(->[Cu+]<-[C]2NC=CN2c2ccco2)C=CN1C                               0.0138        
+CC1=C(Cl)N(->[Cu+]<-N2=CC=COC2)C=CN1C                                      0.0131        
+CN(C)c1ccn(->[Cu+]<-[C]2N(C)C=NCN2c2ccn(C3CCCCC3)c2)cc1                    0.0093        
+CC1=CN(C2CCCC2)[C](->[Cu+]<-[C]2NC(Cl)=C(N(C)C)N2)C1                       0.0057        
+C=C(C)C=C(C)N(=CC)->[Cu+]<-[C]1N(c2ccccc2)C=CN1c1cccc(C)n1                 0.0057        
+CC1=C(Cl)NC=CN1->[Cu+]<-N1=CC=COC1                                         0.0040        
+Cc1cccn(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)c1                                0.0038        
+Cc1cccc(N2(->[Cu+]<-n3cccc(C=CC=NCF)c3)C=CN(C)C=C2)c1                      0.0027        
+ClC1=C(C2CCCC2)N[C](->[Cu+]<-P(C2CCCC2)(C2CCCC2)C2CCCC2)N1                 0.0023        
+CNc1cc(C)n(->[Cu+]<-[C]2NC(Cl)=C(C3=C(Cl)N[C]N3)N2C)c(C)c1                 0.0010        
+CNN(C)(C)->[Cu+]<-[C]1NC(Cl)=C(C2=C(Cl)N[C]N2)N1                           0.0006        
+COC1=CN(->[Cu+]<-n2ccc(N(C)C)cc2)(C2CCCCC2)C=CC1                           0.0004        
+Cc1cc(C)c(N2C=CC=CN2(C)->[Cu+]<-[C]2N(C)CCN2C=N)c(C)c1                     0.0003        
+CN1CCN(C2=CC=CCC2)[C]1->[Cu+]<-[C]1NC(Cl)=C(Cl)N1                          0.0002        
+CN(C)C1C=C(Cl)N[C](->[Cu+]<-N2=CC3(CC=C2)CCCC3)N1                          0.0001        
+CCN1CCN(CC)[C]1->[Cu+]<-[C]1CC(C)=CN1C(C)C                                 0.0001        
+CCCN1(->[Cu+]<-N2(C)C=CCCC2)C=C(C)C=NC1                                    0.0000        
+CC(C)=O->[Cu+]<-N1(C(C)C)C=CCCC1                                           0.0000        
+CNC1=CC(N(C)(C)->[Cu+]<-[C]2N(C)CCON2C)CC=C1                               0.0000        
+CNc1cc(F)n(->[Cu+]<-[C]2N(C)CCN2F)c(N(C)C)c1                               0.0000        
+=========================================================================================
+
+=========================================================================================
+                                       Generation 3                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CC1=CCCC1N1CCN(C)[C]1->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                      0.1212        
+CN1CCN(C2=CC=CCC2=O)[C]1->[Cu+]<-[C]1NC(Cl)=C(c2ccccc2)N1                  0.0726        
+CN(->[Cu+]<-[C]1NC(Cl)=C(C2=C(Cl)N[C]N2)N1)N1C=CN(c2ccccc2)C=C1            0.0618        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-[C]1N(c2ccccc2)C=CN1c1cccc(C)n1                0.0593        
+CC=CCCN(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                 0.0460        
+Cc1cccn(->[Cu+]<-N2C=CCC=C2)c1                                             0.0304        
+CSN(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                     0.0216        
+CN1C=C(N(C)(C)->[Cu+]<-[C]2N(C)C=NCN2C2C=CN(C3CCCCC3)C=C2)CC1              0.0205        
+CC1=C(Cl)N(->[Cu+]<-[C]2NC=CN2c2ccco2)C=CN1C                               0.0138        
+CC1=C(Cl)N(->[Cu+]<-N2=CC=COC2)C=CN1C                                      0.0131        
+CNN(C)(C)->[Cu+]<-[C]1NC=C(C2=C(N=CC=Cc3cccnc3)N[C]N2)N1                   0.0107        
+CN(C)c1ccn(->[Cu+]<-[C]2N(C)C=NCN2c2ccn(C3CCCCC3)c2)cc1                    0.0093        
+CC1=CN(C2CCCC2)[C](->[Cu+]<-[C]2NC(Cl)=C(N(C)C)N2)C1                       0.0057        
+C=C(C)C=C(C)N(=CC)->[Cu+]<-[C]1N(c2ccccc2)C=CN1c1cccc(C)n1                 0.0057        
+CC1=C(Cl)NC=CN1->[Cu+]<-N1=CC=COC1                                         0.0040        
+CC1=C(Cl)NC=CN1->[Cu+]<-N1(C)C=COC1                                        0.0039        
+Cc1cccn(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)c1                                0.0038        
+CC1=C(Cl)N(->[Cu+]<-N2C=NCC2Cl)C(O)=CN1                                    0.0036        
+CNc1cc(CF)n(->[Cu+]<-[C]2N(C)CCN2C)c(N(C)C)c1                              0.0034        
+Cc1cccc(N2(->[Cu+]<-n3cccc(C=CC=NCF)c3)C=CN(C)C=C2)c1                      0.0027        
+ClC1=C(C2CCCC2)N[C](->[Cu+]<-P(C2CCCC2)(C2CCCC2)C2CCCC2)N1                 0.0023        
+CNc1cc(C)n(->[Cu+]<-[C]2NC(Cl)=C(C3=C(Cl)N[C]N3)N2C)c(C)c1                 0.0010        
+CC1=CC(N2C=CN(c3nc(C)ccc3C)[C]2->[Cu+]<-N2(C)C=CCCC2)=CC1                  0.0010        
+=========================================================================================
+
+=========================================================================================
+                                       Generation 4                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CC1=C(CN(S)->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)NC=CN1C                        0.2868        
+CC1=CCCC1N1CCN(C)[C]1->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                      0.1212        
+CC1=CC(N2CN=CC(C)[C]2->[Cu+]<-N2(C)C=CCCC2)=CC1                            0.0931        
+CN1CCN(C2=CC=CCC2=O)[C]1->[Cu+]<-[C]1NC(Cl)=C(c2ccccc2)N1                  0.0726        
+CN1(->[Cu+]<-[C]2NC(N=CC=CCl)=C(C3=CN[C]N3)N2)C=CN(c2ccccc2)C=C1           0.0622        
+CN(->[Cu+]<-[C]1NC(Cl)=C(C2=C(Cl)N[C]N2)N1)N1C=CN(c2ccccc2)C=C1            0.0618        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-[C]1N(c2ccccc2)C=CN1c1cccc(C)n1                0.0593        
+CNN1C=C(C)C[C]1->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                            0.0558        
+CN1(->[Cu+]<-N2C=CN(c3ccccc3)C=C2)C=CCC1                                   0.0526        
+C=CC=CC(=C)N1(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN(NC)C=C1                0.0473        
+CN1C=CN(->[Cu+]<-n2cccc(CCl)c2)(C2=CCCC=C2)C=C1                            0.0470        
+CC=CCCN(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                 0.0460        
+Cc1ccn(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)(C2CCCCC2)c1                       0.0316        
+Cc1cccn(->[Cu+]<-N2C=CCC=C2)c1                                             0.0304        
+CN1C=CN(->[Cu+]<-[C]2N(C)C=CN2c2ccccc2)(C2=CC=CC2)C=C1                     0.0276        
+CSN(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                     0.0216        
+CN1C=C(N(C)(C)->[Cu+]<-[C]2N(C)C=NCN2C2C=CN(C3CCCCC3)C=C2)CC1              0.0205        
+CC1=C(Cl)N(->[Cu+]<-N2C=CNC=C2)C=CN1C                                      0.0197        
+CC(=CN(C)C)N(C)(C)->[Cu+]<-N1=CN(C)C=CN1c1ccccc1                           0.0140        
+CC1=C(Cl)N(->[Cu+]<-[C]2NC=CN2c2ccco2)C=CN1C                               0.0138        
+CC1=C(Cl)N(->[Cu+]<-N2=CC=COC2)C=CN1C                                      0.0131        
+CNN(C)(C)->[Cu+]<-[C]1NC=C(C2=C(N=CC=Cc3cccnc3)N[C]N2)N1                   0.0107        
+CN(C)c1ccn(->[Cu+]<-[C]2N(C)C=NCN2c2ccn(C3CCCCC3)c2)cc1                    0.0093        
+=========================================================================================
+
+=========================================================================================
+                                       Generation 5                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CC1=C(CN(S)->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)NC=CN1C                        0.2868        
+CSNN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                             0.2207        
+CC1=CCCC1N1CCN(C)[C]1->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                      0.1212        
+CC1=CC(N2CN=CC(C)[C]2->[Cu+]<-N2(C)C=CCCC2)=CC1                            0.0931        
+CN1CCN(C2=CC=CCC2=O)[C]1->[Cu+]<-[C]1NC(Cl)=C(c2ccccc2)N1                  0.0726        
+CN1(->[Cu+]<-[C]2NC(N=CC=CCl)=C(C3=CN[C]N3)N2)C=CN(c2ccccc2)C=C1           0.0622        
+CN(->[Cu+]<-[C]1NC(Cl)=C(C2=C(Cl)N[C]N2)N1)N1C=CN(c2ccccc2)C=C1            0.0618        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-[C]1N(c2ccccc2)C=CN1c1cccc(C)n1                0.0593        
+CNN1C=C(C)C[C]1->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                            0.0558        
+CN1(->[Cu+]<-N2C=CN(c3ccccc3)C=C2)C=CCC1                                   0.0526        
+C=CC=CC(=C)N1(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN(NC)C=C1                0.0473        
+CN1C=CN(->[Cu+]<-n2cccc(CCl)c2)(C2=CCCC=C2)C=C1                            0.0470        
+CC=CCCN(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                 0.0460        
+CNNN1C=C(C)C[C]1->[Cu+]<-N1(NC)C=CN(c2ccccc2)C=C1                          0.0390        
+CN1(->[Cu+]<-[C]2NC(C3=CC=CC3)N2)C=CN(c2ccccc2)C=C1                        0.0362        
+Cc1ccn(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)(C2CCCCC2)c1                       0.0316        
+Cc1cc2c([nH]1)N(C)(->[Cu+]<-[C]1N(C)CCN1C)CN2C                             0.0306        
+Cc1cccn(->[Cu+]<-N2C=CCC=C2)c1                                             0.0304        
+CN1C=CN(->[Cu+]<-[C]2N(C)C=CN2c2ccccc2)(C2=CC=CC2)C=C1                     0.0276        
+CSN(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                     0.0216        
+CN1C=C(N(C)(C)->[Cu+]<-[C]2N(C)C=NCN2C2C=CN(C3CCCCC3)C=C2)CC1              0.0205        
+CC1=C(Cl)N(->[Cu+]<-N2C=CNC=C2)C=CN1C                                      0.0197        
+CC=CCCN(C)->[Cu+]<-N1(C2=CC=CC(C)C2)C=CN(C)C=C1                            0.0190        
+=========================================================================================
+
+=========================================================================================
+                                       Generation 6                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CC1=C(CN(S)->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)NC=CN1C                        0.2868        
+CSNN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                             0.2207        
+CCC=C(C)N(C)C=CN->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.1533        
+CC1=CCCC1N1CCN(C)[C]1->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                      0.1212        
+CC1=CC(N2CN=CC(C)[C]2->[Cu+]<-N2(C)C=CCCC2)=CC1                            0.0931        
+CSNN(C)->[Cu+]<-N1(c2ccccc2)C=CN(C)CC1                                     0.0925        
+CN(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                      0.0882        
+CCc1cccn(->[Cu+]<-N2(C3=CCC=C3)C=CN(C)C=C2)c1                              0.0870        
+CN1CCN(C2=CC=CCC2=O)[C]1->[Cu+]<-[C]1NC(Cl)=C(c2ccccc2)N1                  0.0726        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2N2C=CN(C)C=C2)cc(N(C)C)n1                   0.0717        
+CN1(->[Cu+]<-[C]2NC(N=CC=CCl)=C(C3=CN[C]N3)N2)C=CN(c2ccccc2)C=C1           0.0622        
+CN(->[Cu+]<-[C]1NC(Cl)=C(C2=C(Cl)N[C]N2)N1)N1C=CN(c2ccccc2)C=C1            0.0618        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-[C]1N(c2ccccc2)C=CN1c1cccc(C)n1                0.0593        
+CNN1C=C(C)C[C]1->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                            0.0558        
+CN1(->[Cu+]<-N2C=CN(c3ccccc3)C=C2)C=CCC1                                   0.0526        
+C=CC=CC(=C)N1(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN(NC)C=C1                0.0473        
+CN1C=CN(->[Cu+]<-n2cccc(CCl)c2)(C2=CCCC=C2)C=C1                            0.0470        
+CC=CCCN(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                 0.0460        
+CNNN1C=C(C)C[C]1->[Cu+]<-N1(NC)C=CN(c2ccccc2)C=C1                          0.0390        
+CN1(->[Cu+]<-[C]2NC(C3=CC=CC3)N2)C=CN(c2ccccc2)C=C1                        0.0362        
+CNc1cc(C)n(->[Cu+]<-[C]2N(C)CCN2C)c(-c2ccccc2)c1                           0.0347        
+Cc1ccn(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)(C2CCCCC2)c1                       0.0316        
+Cc1cc2c([nH]1)N(C)(->[Cu+]<-[C]1N(C)CCN1C)CN2C                             0.0306        
+=========================================================================================
+
+=========================================================================================
+                                       Generation 7                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CC1=C(CN(S)->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)NC=CN1C                        0.2868        
+CSNN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                             0.2207        
+CCC=C(C)N(C)C=CN->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.1533        
+CC1=CCCC1N1CCN(C)[C]1->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                      0.1212        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C2=CCCC=C2)cc(N(C)C)n1                      0.1189        
+CC1=CC(N2CN=CC(C)[C]2->[Cu+]<-N2(C)C=CCCC2)=CC1                            0.0931        
+CSNN(C)->[Cu+]<-N1(c2ccccc2)C=CN(C)CC1                                     0.0925        
+CN(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                      0.0882        
+CCc1cccn(->[Cu+]<-N2(C3=CCC=C3)C=CN(C)C=C2)c1                              0.0870        
+CN1CCN(C2=CC=CCC2=O)[C]1->[Cu+]<-[C]1NC(Cl)=C(c2ccccc2)N1                  0.0726        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2N2C=CN(C)C=C2)cc(N(C)C)n1                   0.0717        
+CN1(->[Cu+]<-[C]2NC(N=CC=CCl)=C(C3=CN[C]N3)N2)C=CN(c2ccccc2)C=C1           0.0622        
+CN(->[Cu+]<-[C]1NC(Cl)=C(C2=C(Cl)N[C]N2)N1)N1C=CN(c2ccccc2)C=C1            0.0618        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-[C]1N(c2ccccc2)C=CN1c1cccc(C)n1                0.0593        
+CNN1C=C(C)C[C]1->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                            0.0558        
+CN1(->[Cu+]<-N2C=CN(c3ccccc3)C=C2)C=CCC1                                   0.0526        
+C=CC=CC(=C)N1(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN(NC)C=C1                0.0473        
+CN1C=CN(->[Cu+]<-n2cccc(CCl)c2)(C2=CCCC=C2)C=C1                            0.0470        
+CC=CCCN(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                 0.0460        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-[C]1NC(Cl)=C(c2ccccc2)N1                      0.0410        
+CNNN1C=C(C)C[C]1->[Cu+]<-N1(NC)C=CN(c2ccccc2)C=C1                          0.0390        
+CN1(->[Cu+]<-[C]2NC(C3=CC=CC3)N2)C=CN(c2ccccc2)C=C1                        0.0362        
+=========================================================================================
+
+=========================================================================================
+                                       Generation 8                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CC1=C(CN(S)->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)NC=CN1C                        0.2868        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-N(SC)Sc1ccccc1                                 0.2549        
+CSNN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                             0.2207        
+CCC=C(C)N(C)C=CN->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.1533        
+CC1=CCCC1N1CCN(C)[C]1->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                      0.1212        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C2=CCCC=C2)cc(N(C)C)n1                      0.1189        
+CC1=CC(N2CN=CC(C)[C]2->[Cu+]<-N2(C)C=CCCC2)=CC1                            0.0931        
+CSNN(C)->[Cu+]<-N1(c2ccccc2)C=CN(C)CC1                                     0.0925        
+CN(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                      0.0882        
+CCc1cccn(->[Cu+]<-N2(C3=CCC=C3)C=CN(C)C=C2)c1                              0.0870        
+CN1CCN(C2=CC=CCC2=O)[C]1->[Cu+]<-[C]1NC(Cl)=C(c2ccccc2)N1                  0.0726        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2N2C=CN(C)C=C2)cc(N(C)C)n1                   0.0717        
+CN1(->[Cu+]<-[C]2NC(N=CC=CCl)=C(C3=CN[C]N3)N2)C=CN(c2ccccc2)C=C1           0.0622        
+CN(->[Cu+]<-[C]1NC(Cl)=C(C2=C(Cl)N[C]N2)N1)N1C=CN(c2ccccc2)C=C1            0.0618        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-[C]1N(c2ccccc2)C=CN1c1cccc(C)n1                0.0593        
+CNN1C=C(C)C[C]1->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                            0.0558        
+CN1(->[Cu+]<-N2C=CN(c3ccccc3)C=C2)C=CCC1                                   0.0526        
+C=CC=CC(=C)N1(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN(NC)C=C1                0.0473        
+CN1C=CN(->[Cu+]<-n2cccc(CCl)c2)(C2=CCCC=C2)C=C1                            0.0470        
+CC=CCCN(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                 0.0460        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-[C]1NC(Cl)=C(c2ccccc2)N1                      0.0410        
+CNNN1C=C(C)C[C]1->[Cu+]<-N1(NC)C=CN(c2ccccc2)C=C1                          0.0390        
+=========================================================================================
+
+=========================================================================================
+                                       Generation 9                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CC1=CC(N2CCN(C)[C]2->[Cu+]<-N(C)c2cc(C)nc(N(C)C)c2)=CC1                    0.4294        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CC1=C(CN(S)->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)NC=CN1C                        0.2868        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-N(SC)Sc1ccccc1                                 0.2549        
+CN1C=CN(C2=C(Cl)N[C](->[Cu+]<-N(C)c3cccnc3)NC2=N)C=C1                      0.2519        
+CSNN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                             0.2207        
+CCC=C(C)N(C)C=CN->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.1533        
+CNN1CCN(C)[C]1->[Cu+]<-N(C)c1cc(C)nc(N(C)C)c1                              0.1495        
+CC1=CCCC1N1CCN(C)[C]1->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                      0.1212        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C2=CCCC=C2)cc(N(C)C)n1                      0.1189        
+CN1(->[Cu+]<-N(S)CCCl)C=CN(c2ccccc2)C=C1                                   0.1032        
+CC1=CC(N2CN=CC(C)[C]2->[Cu+]<-N2(C)C=CCCC2)=CC1                            0.0931        
+CSNN(C)->[Cu+]<-N1(c2ccccc2)C=CN(C)CC1                                     0.0925        
+CN(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                      0.0882        
+CCc1cccn(->[Cu+]<-N2(C3=CCC=C3)C=CN(C)C=C2)c1                              0.0870        
+Cn1ccc(Cl)c1N->[Cu+]<-[C]1NC(N=CC=CCl)=C(C2=CN[C]N2)N1                     0.0850        
+CN1CCN(C2=CC=CCC2=O)[C]1->[Cu+]<-[C]1NC(Cl)=C(c2ccccc2)N1                  0.0726        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2N2C=CN(C)C=C2)cc(N(C)C)n1                   0.0717        
+CN1(->[Cu+]<-[C]2NC(N=CC=CCl)=C(C3=CN[C]N3)N2)C=CN(c2ccccc2)C=C1           0.0622        
+CN(->[Cu+]<-[C]1NC(Cl)=C(C2=C(Cl)N[C]N2)N1)N1C=CN(c2ccccc2)C=C1            0.0618        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-[C]1N(c2ccccc2)C=CN1c1cccc(C)n1                0.0593        
+CNN1C=C(C)C[C]1->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                            0.0558        
+CN1(->[Cu+]<-N2C=CN(c3ccccc3)C=C2)C=CCC1                                   0.0526        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 10                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1CCN(N)[C]1->[Cu+]<-N(C)c1cccnc1                                         0.4446        
+CC1=CC(N2CCN(C)[C]2->[Cu+]<-N(C)c2cc(C)nc(N(C)C)c2)=CC1                    0.4294        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CC1=C(CN(S)->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)NC=CN1C                        0.2868        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-N(SC)Sc1ccccc1                                 0.2549        
+CN1C=CN(C2=C(Cl)N[C](->[Cu+]<-N(C)c3cccnc3)NC2=N)C=C1                      0.2519        
+CSNN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                             0.2207        
+CNC(C)=C(CNS)N(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                          0.2151        
+CNN(->[Cu+]<-[C]1NC(=N)C(N2C=CN(C)C=C2)=C(Cl)N1)c1ccccc1                   0.1864        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2c2ccccc2)cc(N(C)C)n1                        0.1804        
+CN1C=CN(C)(->[Cu+]<-OCC=O)C=C1                                             0.1623        
+CCC=C(C)N(C)C=CN->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.1533        
+CNN1CCN(C)[C]1->[Cu+]<-N(C)c1cc(C)nc(N(C)C)c1                              0.1495        
+CN(NS)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                     0.1338        
+CC1=CCCC1N1CCN(C)[C]1->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                      0.1212        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C2=CCCC=C2)cc(N(C)C)n1                      0.1189        
+CN1(->[Cu+]<-N(S)CCCl)C=CN(c2ccccc2)C=C1                                   0.1032        
+CC1=CC(N2CN=CC(C)[C]2->[Cu+]<-N2(C)C=CCCC2)=CC1                            0.0931        
+CN1(->[Cu+]<-N2(C)CNC2CNS)C=CN(c2ccccc2)C=C1                               0.0925        
+CSNN(C)->[Cu+]<-N1(c2ccccc2)C=CN(C)CC1                                     0.0925        
+CN(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                      0.0882        
+CCc1cccn(->[Cu+]<-N2(C3=CCC=C3)C=CN(C)C=C2)c1                              0.0870        
+Cn1ccc(Cl)c1N->[Cu+]<-[C]1NC(N=CC=CCl)=C(C2=CN[C]N2)N1                     0.0850        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 11                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1CCN(N)[C]1->[Cu+]<-N(C)c1cccnc1                                         0.4446        
+CC1=CC(N2CCN(C)[C]2->[Cu+]<-N(C)c2cc(C)nc(N(C)C)c2)=CC1                    0.4294        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CC1=C(CN(S)->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)NC=CN1C                        0.2868        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C2NCN2C)cc(N(C)C)n1                         0.2734        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-N(SC)Sc1ccccc1                                 0.2549        
+CN1C=CN(C2=C(Cl)N[C](->[Cu+]<-N(C)c3cccnc3)NC2=N)C=C1                      0.2519        
+CSNN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                             0.2207        
+CNC(C)=C(CNS)N(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                          0.2151        
+CNN(->[Cu+]<-[C]1NC(=N)C(N2C=CN(C)C=C2)=C(Cl)N1)c1ccccc1                   0.1864        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2c2ccccc2)cc(N(C)C)n1                        0.1804        
+CN1C=CN(C)(->[Cu+]<-OCC=O)C=C1                                             0.1623        
+CCC=C(C)N(C)C=CN->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.1533        
+CNN1CCN(C)[C]1->[Cu+]<-N(C)c1cc(C)nc(N(C)C)c1                              0.1495        
+CN(NS)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                     0.1338        
+CC1=CCCC1N1CCN(C)[C]1->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                      0.1212        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C2=CCCC=C2)cc(N(C)C)n1                      0.1189        
+CC1=C(N2(->[Cu+]<-N=CNc3cccnc3)C=CN(C)C=C2)NC=CN1C                         0.1060        
+CN1(->[Cu+]<-N(S)CCCl)C=CN(c2ccccc2)C=C1                                   0.1032        
+CC1=CC(N2CN=CC(C)[C]2->[Cu+]<-N2(C)C=CCCC2)=CC1                            0.0931        
+CN1(->[Cu+]<-N2(C)CNC2CNS)C=CN(c2ccccc2)C=C1                               0.0925        
+CSNN(C)->[Cu+]<-N1(c2ccccc2)C=CN(C)CC1                                     0.0925        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 12                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1CCN(N)[C]1->[Cu+]<-N(C)c1cccnc1                                         0.4446        
+CC1=CC(N2CCN(C)[C]2->[Cu+]<-N(C)c2cc(C)nc(N(C)C)c2)=CC1                    0.4294        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CC1=C(CN(S)->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)NC=CN1C                        0.2868        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C2NCN2C)cc(N(C)C)n1                         0.2734        
+C=CN1(->[Cu+]<-N(O)(C=O)c2cccnc2)C=CN(C)C=C1                               0.2683        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-N(SC)Sc1ccccc1                                 0.2549        
+CN1C=CN(C2=C(Cl)N[C](->[Cu+]<-N(C)c3cccnc3)NC2=N)C=C1                      0.2519        
+CSNN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                             0.2207        
+CNC(C)=C(CNS)N(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                          0.2151        
+CNN(->[Cu+]<-[C]1NC(=N)C(N2C=CN(C)C=C2)=C(Cl)N1)c1ccccc1                   0.1864        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2c2ccccc2)cc(N(C)C)n1                        0.1804        
+CN(S)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                      0.1683        
+CN1C=CN(C)(->[Cu+]<-OCC=O)C=C1                                             0.1623        
+CCC=C(C)N(C)C=CN->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.1533        
+CNN1CCN(C)[C]1->[Cu+]<-N(C)c1cc(C)nc(N(C)C)c1                              0.1495        
+CN(NS)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                     0.1338        
+CC1=CCCC1N1CCN(C)[C]1->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                      0.1212        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C2=CCCC=C2)cc(N(C)C)n1                      0.1189        
+CC1=C(N2(->[Cu+]<-N=CNc3cccnc3)C=CN(C)C=C2)NC=CN1C                         0.1060        
+CN1(->[Cu+]<-N(S)CCCl)C=CN(c2ccccc2)C=C1                                   0.1032        
+CNN1CCN(C)[C]1->[Cu+]<-N(C)SCc1ccccc1                                      0.1001        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 13                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1CCN(N)[C]1->[Cu+]<-N(C)c1cccnc1                                         0.4446        
+CC1=CC(N2CCN(C)[C]2->[Cu+]<-N(C)c2cc(C)nc(N(C)C)c2)=CC1                    0.4294        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CC1=C(CN(S)->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)NC=CN1C                        0.2868        
+CNc1cc(C)nc(N(C)->[Cu+]<-[C]2N(C)CCN2C2NCN2F)c1                            0.2758        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C2NCN2C)cc(N(C)C)n1                         0.2734        
+C=CN1(->[Cu+]<-N(O)(C=O)c2cccnc2)C=CN(C)C=C1                               0.2683        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-N(SC)Sc1ccccc1                                 0.2549        
+CN1C=CN(C2=C(Cl)N[C](->[Cu+]<-N(C)c3cccnc3)NC2=N)C=C1                      0.2519        
+CNN(->[Cu+]<-N1(C)C=CC=CN1)c1ccccc1Cl                                      0.2459        
+CSNN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                             0.2207        
+CNC(C)=C(CNS)N(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                          0.2151        
+CNN(->[Cu+]<-[C]1NC(=N)C(N2C=CN(C)C=C2)=C(Cl)N1)c1ccccc1                   0.1864        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2c2ccccc2)cc(N(C)C)n1                        0.1804        
+CN(S)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                      0.1683        
+CN1C=CN(C)(->[Cu+]<-OCC=O)C=C1                                             0.1623        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C2=CCNC=C2)cc(N(C)C)n1                      0.1598        
+CCC=C(C)N(C)C=CN->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.1533        
+CNN1CCN(C)[C]1->[Cu+]<-N(C)c1cc(C)nc(N(C)C)c1                              0.1495        
+CN(NS)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                     0.1338        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 14                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1CCN(N)[C]1->[Cu+]<-N(C)c1cccnc1                                         0.4446        
+CN1C=CN(->[Cu+]<-N(C)c2cccnc2)(c2ccn(C)c2)C=C1                             0.4343        
+CC1=CC(N2CCN(C)[C]2->[Cu+]<-N(C)c2cc(C)nc(N(C)C)c2)=CC1                    0.4294        
+Cc1ccccc1CN(C)->[Cu+]<-N1(C)C=CC=CN1                                       0.4058        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(O)CNc2cccnc2)C=C1                            0.3031        
+CC1=C(CN(S)->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)NC=CN1C                        0.2868        
+CNc1cc(C)nc(N(C)->[Cu+]<-[C]2N(C)CCN2C2NCN2F)c1                            0.2758        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C2NCN2C)cc(N(C)C)n1                         0.2734        
+C=CN1(->[Cu+]<-N(O)(C=O)c2cccnc2)C=CN(C)C=C1                               0.2683        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-N(SC)Sc1ccccc1                                 0.2549        
+CN1C=CN(C2=C(Cl)N[C](->[Cu+]<-N(C)c3cccnc3)NC2=N)C=C1                      0.2519        
+CNN(->[Cu+]<-N1(C)C=CC=CN1)c1ccccc1Cl                                      0.2459        
+CN1(->[Cu+]<-N2(N)C=C(F)CC2)C=CN(c2ccccc2)C=C1                             0.2388        
+CSNN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                             0.2207        
+CNC(C)=C(CNS)N(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                          0.2151        
+CNN(->[Cu+]<-[C]1NC(=N)C(N2C=CN(C)C=C2)=C(Cl)N1)c1ccccc1                   0.1864        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2c2ccccc2)cc(N(C)C)n1                        0.1804        
+CN(S)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                                      0.1683        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 15                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1CCN(N)[C]1->[Cu+]<-N(C)c1cccnc1                                         0.4446        
+CN1C=CN(->[Cu+]<-N(C)c2cccnc2)(c2ccn(C)c2)C=C1                             0.4343        
+CC1=CC(N2CCN(C)[C]2->[Cu+]<-N(C)c2cc(C)nc(N(C)C)c2)=CC1                    0.4294        
+C1=CSC=C(N2(->[Cu+]<-Nc3cccnc3)C=CN(Cc3ccccc3)C=C2)C1                      0.4224        
+Cc1ccccc1CN(C)->[Cu+]<-N1(C)C=CC=CN1                                       0.4058        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+CN1C=CN(C)(->[Cu+]<-N(C)c2ccc(F)cc2)C=C1                                   0.3577        
+CN(->[Cu+]<-N(c1ccccc1)c1cccnc1)c1ccccc1                                   0.3435        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(O)CNc2cccnc2)C=C1                            0.3031        
+CC1=C(CN(S)->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)NC=CN1C                        0.2868        
+CNc1cc(C)nc(N(C)->[Cu+]<-[C]2N(C)CCN2C2NCN2F)c1                            0.2758        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C2NCN2C)cc(N(C)C)n1                         0.2734        
+C=CN1(->[Cu+]<-N(O)(C=O)c2cccnc2)C=CN(C)C=C1                               0.2683        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-N(SC)Sc1ccccc1                                 0.2549        
+CN1C=CN(C2=C(Cl)N[C](->[Cu+]<-N(C)c3cccnc3)NC2=N)C=C1                      0.2519        
+CNN(->[Cu+]<-N1(C)C=CC=CN1)c1ccccc1Cl                                      0.2459        
+CN1(->[Cu+]<-N2(N)C=C(F)CC2)C=CN(c2ccccc2)C=C1                             0.2388        
+CSNN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                             0.2207        
+CNC(C)=C(CNS)N(C)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                          0.2151        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 16                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1CCN(N)[C]1->[Cu+]<-N(C)c1cccnc1                                         0.4446        
+CCN(->[Cu+]<-[C]1N(C)CCN1C)c1ccc(F)cc1                                     0.4442        
+CN1C=CN(->[Cu+]<-N(C)c2cccnc2)(c2ccn(C)c2)C=C1                             0.4343        
+CC1=CC(N2CCN(C)[C]2->[Cu+]<-N(C)c2cc(C)nc(N(C)C)c2)=CC1                    0.4294        
+C1=CSC=C(N2(->[Cu+]<-Nc3cccnc3)C=CN(Cc3ccccc3)C=C2)C1                      0.4224        
+Cc1ccccc1CN(C)->[Cu+]<-N1(C)C=CC=CN1                                       0.4058        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+CN1C=CN(C)(->[Cu+]<-N(C)c2ccc(F)cc2)C=C1                                   0.3577        
+CN(->[Cu+]<-N(c1ccccc1)c1cccnc1)c1ccccc1                                   0.3435        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CN(Cc1ccccc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                              0.3041        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(O)CNc2cccnc2)C=C1                            0.3031        
+CNC1=C(N2C=CN(->[Cu+]<-N(C)c3ccc(F)cc3)C=C2)C=CC1                          0.3028        
+CC1=C(CN(S)->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)NC=CN1C                        0.2868        
+CNc1cc(C)nc(N(C)->[Cu+]<-[C]2N(C)CCN2C2NCN2F)c1                            0.2758        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C2NCN2C)cc(N(C)C)n1                         0.2734        
+C=CN1(->[Cu+]<-N(O)(C=O)c2cccnc2)C=CN(C)C=C1                               0.2683        
+C=CC1=C(C)N(C)C=CN1->[Cu+]<-N(SC)Sc1ccccc1                                 0.2549        
+CN1C=CN(C2=C(Cl)N[C](->[Cu+]<-N(C)c3cccnc3)NC2=N)C=C1                      0.2519        
+CNN(->[Cu+]<-N1(C)C=CC=CN1)c1ccccc1Cl                                      0.2459        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 17                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN(Nc1ccc(F)cc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.5213        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1CCN(N)[C]1->[Cu+]<-N(C)c1cccnc1                                         0.4446        
+CCN(->[Cu+]<-[C]1N(C)CCN1C)c1ccc(F)cc1                                     0.4442        
+CN1C=CN(->[Cu+]<-N(C)c2cccnc2)(c2ccn(C)c2)C=C1                             0.4343        
+CC1=CC(N2CCN(C)[C]2->[Cu+]<-N(C)c2cc(C)nc(N(C)C)c2)=CC1                    0.4294        
+C1=CSC=C(N2(->[Cu+]<-Nc3cccnc3)C=CN(Cc3ccccc3)C=C2)C1                      0.4224        
+Cc1ccccc1CN(C)->[Cu+]<-N1(C)C=CC=CN1                                       0.4058        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+CN1C=CN(C)(->[Cu+]<-N(C)c2ccc(F)cc2)C=C1                                   0.3577        
+CN(->[Cu+]<-N(c1ccccc1)c1cccnc1)c1ccccc1                                   0.3435        
+CCN(->[Cu+]<-N(C)C1=C(C)C=CC1)c1ccc(F)cc1                                  0.3402        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CN(Cc1ccccc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                              0.3041        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(O)CNc2cccnc2)C=C1                            0.3031        
+CNC1=C(N2C=CN(->[Cu+]<-N(C)c3ccc(F)cc3)C=C2)C=CC1                          0.3028        
+CC1=C(CN(S)->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)NC=CN1C                        0.2868        
+CNc1cc(C)nc(N(C)->[Cu+]<-[C]2N(C)CCN2C2NCN2F)c1                            0.2758        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C2NCN2C)cc(N(C)C)n1                         0.2734        
+C=CN1(->[Cu+]<-N(O)(C=O)c2cccnc2)C=CN(C)C=C1                               0.2683        
+CCN(->[Cu+]<-N(C)Sc1ccccc1)c1ccc(F)cc1                                     0.2659        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 18                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN(Nc1ccc(F)cc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.5213        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+CC1=CC(N2C=C(N3(->[Cu+]<-N(C)Nc4ccc(F)cc4)C=CN(C)C=C3)CC2)=CC1             0.5010        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1C=CN(C2=CN(C)(->[Cu+]<-N(C)c3cccnc3)C=CC2)C=C1                          0.4972        
+CN1C=CN(N2CCN(C)[C]2->[Cu+]<-N(C)Nc2ccc(F)cc2)C=C1                         0.4914        
+CN1CCN(N)[C]1->[Cu+]<-N(C)c1cccnc1                                         0.4446        
+CCN(->[Cu+]<-[C]1N(C)CCN1C)c1ccc(F)cc1                                     0.4442        
+CN1C=CN(->[Cu+]<-N(C)c2cccnc2)(c2ccn(C)c2)C=C1                             0.4343        
+CC1=CC(N2CCN(C)[C]2->[Cu+]<-N(C)c2cc(C)nc(N(C)C)c2)=CC1                    0.4294        
+C1=CSC=C(N2(->[Cu+]<-Nc3cccnc3)C=CN(Cc3ccccc3)C=C2)C1                      0.4224        
+Cc1ccccc1CN(C)->[Cu+]<-N1(C)C=CC=CN1                                       0.4058        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+CN1C=CN(C)(->[Cu+]<-N(C)c2ccc(F)cc2)C=C1                                   0.3577        
+CN(->[Cu+]<-N(c1ccccc1)c1cccnc1)c1ccccc1                                   0.3435        
+CCN(->[Cu+]<-N(C)C1=C(C)C=CC1)c1ccc(F)cc1                                  0.3402        
+Cc1cc(N(C)->[Cu+]<-N(CNO)C2=CN(C)CC2)cc(N(C)C)n1                           0.3291        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CN(Cc1ccccc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                              0.3041        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(O)CNc2cccnc2)C=C1                            0.3031        
+CNC1=C(N2C=CN(->[Cu+]<-N(C)c3ccc(F)cc3)C=C2)C=CC1                          0.3028        
+CC1=C(CN(S)->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)NC=CN1C                        0.2868        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 19                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN(Nc1ccc(F)cc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.5213        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+CC1=CC(N2C=C(N3(->[Cu+]<-N(C)Nc4ccc(F)cc4)C=CN(C)C=C3)CC2)=CC1             0.5010        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1C=CN(C2=CN(C)(->[Cu+]<-N(C)c3cccnc3)C=CC2)C=C1                          0.4972        
+CN1C=CN(N2CCN(C)[C]2->[Cu+]<-N(C)Nc2ccc(F)cc2)C=C1                         0.4914        
+CNNc1ccc(N(C)->[Cu+]<-N2(C3=CCCC=C3)C=CN(C)C=C2)cc1                        0.4450        
+CN1CCN(N)[C]1->[Cu+]<-N(C)c1cccnc1                                         0.4446        
+CCN(->[Cu+]<-[C]1N(C)CCN1C)c1ccc(F)cc1                                     0.4442        
+CN1C=CN(->[Cu+]<-N(C)c2cccnc2)(c2ccn(C)c2)C=C1                             0.4343        
+CC1=CC(N2CCN(C)[C]2->[Cu+]<-N(C)c2cc(C)nc(N(C)C)c2)=CC1                    0.4294        
+C1=CSC=C(N2(->[Cu+]<-Nc3cccnc3)C=CN(Cc3ccccc3)C=C2)C1                      0.4224        
+Cc1ccccc1CN(C)->[Cu+]<-N1(C)C=CC=CN1                                       0.4058        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+CN1C=CN(C)(->[Cu+]<-N(C)c2ccc(F)cc2)C=C1                                   0.3577        
+CN(->[Cu+]<-N(c1ccccc1)c1cccnc1)c1ccccc1                                   0.3435        
+CCN(->[Cu+]<-N(C)C1=C(C)C=CC1)c1ccc(F)cc1                                  0.3402        
+Cc1cc(N(C)->[Cu+]<-N(CNO)C2=CN(C)CC2)cc(N(C)C)n1                           0.3291        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CN(Cc1ccccc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                              0.3041        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(O)CNc2cccnc2)C=C1                            0.3031        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 20                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN(Nc1ccc(F)cc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.5213        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+CC1=CC(N2C=C(N3(->[Cu+]<-N(C)Nc4ccc(F)cc4)C=CN(C)C=C3)CC2)=CC1             0.5010        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1C=CN(C2=CN(C)(->[Cu+]<-N(C)c3cccnc3)C=CC2)C=C1                          0.4972        
+CN1C=CN(N2CCN(C)[C]2->[Cu+]<-N(C)Nc2ccc(F)cc2)C=C1                         0.4914        
+CNNc1ccc(N(C)->[Cu+]<-N2(C3=CCCC=C3)C=CN(C)C=C2)cc1                        0.4450        
+CN1CCN(N)[C]1->[Cu+]<-N(C)c1cccnc1                                         0.4446        
+CCN(->[Cu+]<-[C]1N(C)CCN1C)c1ccc(F)cc1                                     0.4442        
+CN1C=CN(->[Cu+]<-N(C)c2cccnc2)(c2ccn(C)c2)C=C1                             0.4343        
+CC1=CC(N2CCN(C)[C]2->[Cu+]<-N(C)c2cc(C)nc(N(C)C)c2)=CC1                    0.4294        
+C1=CSC=C(N2(->[Cu+]<-Nc3cccnc3)C=CN(Cc3ccccc3)C=C2)C1                      0.4224        
+Cc1ccccc1CN(C)->[Cu+]<-N1(C)C=CC=CN1                                       0.4058        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+CN1C=CN(C)(->[Cu+]<-N(C)c2ccc(F)cc2)C=C1                                   0.3577        
+CN(->[Cu+]<-N(c1ccccc1)c1cccnc1)c1ccccc1                                   0.3435        
+CCN(->[Cu+]<-N(C)C1=C(C)C=CC1)c1ccc(F)cc1                                  0.3402        
+Cc1cc(N(C)->[Cu+]<-N(CNO)C2=CN(C)CC2)cc(N(C)C)n1                           0.3291        
+CN1C=CN(CN2(->[Cu+]<-N(C)c3ccc(F)cc3)C=CN(C)C=C2)C=C1                      0.3138        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C)cc(N(C)C)n1                               0.3059        
+CN(Cc1ccccc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                              0.3041        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 21                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCN1c1ccc(N)cc1)c1ccccc1                        0.5567        
+CN(Nc1ccc(F)cc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.5213        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+CC1=CC(N2C=C(N3(->[Cu+]<-N(C)Nc4ccc(F)cc4)C=CN(C)C=C3)CC2)=CC1             0.5010        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1C=CN(C2=CN(C)(->[Cu+]<-N(C)c3cccnc3)C=CC2)C=C1                          0.4972        
+CN1C=CN(N2CCN(C)[C]2->[Cu+]<-N(C)Nc2ccc(F)cc2)C=C1                         0.4914        
+CNC1=C(N2(->[Cu+]<-N(C)c3cccnc3)C=CN(C)C=C2)C=CC1                          0.4765        
+CNNc1ccc(N(C)->[Cu+]<-N2(C3=CCCC=C3)C=CN(C)C=C2)cc1                        0.4450        
+CN1CCN(N)[C]1->[Cu+]<-N(C)c1cccnc1                                         0.4446        
+CCN(->[Cu+]<-[C]1N(C)CCN1C)c1ccc(F)cc1                                     0.4442        
+CN1C=CN(->[Cu+]<-N(C)c2cccnc2)(c2ccn(C)c2)C=C1                             0.4343        
+CC1=CC(N2CCN(C)[C]2->[Cu+]<-N(C)c2cc(C)nc(N(C)C)c2)=CC1                    0.4294        
+C1=CSC=C(N2(->[Cu+]<-Nc3cccnc3)C=CN(Cc3ccccc3)C=C2)C1                      0.4224        
+Cc1ccccc1CN(C)->[Cu+]<-N1(C)C=CC=CN1                                       0.4058        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+CN1C=CN(C)(->[Cu+]<-N(C)c2ccc(F)cc2)C=C1                                   0.3577        
+CN(->[Cu+]<-N(c1ccccc1)c1cccnc1)c1ccccc1                                   0.3435        
+CCN(->[Cu+]<-N(C)C1=C(C)C=CC1)c1ccc(F)cc1                                  0.3402        
+Cc1cc(N(C)->[Cu+]<-N(CNO)C2=CN(C)CC2)cc(N(C)C)n1                           0.3291        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 22                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCN1c1ccc(N)cc1)c1ccccc1                        0.5567        
+CN(Nc1ccc(F)cc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.5213        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+CC1=CC(N2C=C(N3(->[Cu+]<-N(C)Nc4ccc(F)cc4)C=CN(C)C=C3)CC2)=CC1             0.5010        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1C=CN(C2=CN(C)(->[Cu+]<-N(C)c3cccnc3)C=CC2)C=C1                          0.4972        
+CN1C=CN(N2CCN(C)[C]2->[Cu+]<-N(C)Nc2ccc(F)cc2)C=C1                         0.4914        
+CNC1=C(N2(->[Cu+]<-N(C)c3cccnc3)C=CN(C)C=C2)C=CC1                          0.4765        
+CN1C=CN(C)(->[Cu+]<-N(C)c2cccnc2)C=C1                                      0.4571        
+CNNc1ccc(N(C)->[Cu+]<-N2(C3=CCCC=C3)C=CN(C)C=C2)cc1                        0.4450        
+CN1CCN(N)[C]1->[Cu+]<-N(C)c1cccnc1                                         0.4446        
+CCN(->[Cu+]<-[C]1N(C)CCN1C)c1ccc(F)cc1                                     0.4442        
+CN1C=CN(->[Cu+]<-N(C)c2cccnc2)(c2ccn(C)c2)C=C1                             0.4343        
+CC1=CC(N2CCN(C)[C]2->[Cu+]<-N(C)c2cc(C)nc(N(C)C)c2)=CC1                    0.4294        
+C1=CSC=C(N2(->[Cu+]<-Nc3cccnc3)C=CN(Cc3ccccc3)C=C2)C1                      0.4224        
+Cc1ccccc1CN(C)->[Cu+]<-N1(C)C=CC=CN1                                       0.4058        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1cccnc1                               0.3661        
+CCN(->[Cu+]<-N1(C)C=C(NNNC)CO1)c1ccc(F)cc1                                 0.3618        
+CN1C=CN(C)(->[Cu+]<-N(C)c2ccc(F)cc2)C=C1                                   0.3577        
+CN(->[Cu+]<-N(c1ccccc1)c1cccnc1)c1ccccc1                                   0.3435        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 23                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCN1c1ccc(N)cc1)c1ccccc1                        0.5567        
+Cc1ccc(N->[Cu+]<-N(C)c2ccccc2)cc1                                          0.5424        
+CN(Nc1ccc(F)cc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.5213        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+CC1=CC(N2C=C(N3(->[Cu+]<-N(C)Nc4ccc(F)cc4)C=CN(C)C=C3)CC2)=CC1             0.5010        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1C=CN(C2=CN(C)(->[Cu+]<-N(C)c3cccnc3)C=CC2)C=C1                          0.4972        
+CN1C=CN(N2CCN(C)[C]2->[Cu+]<-N(C)Nc2ccc(F)cc2)C=C1                         0.4914        
+CNC1=C(N2(->[Cu+]<-N(C)c3cccnc3)C=CN(C)C=C2)C=CC1                          0.4765        
+CN1C=CN(C)(->[Cu+]<-N(C)c2cccnc2)C=C1                                      0.4571        
+CNNc1ccc(N(C)->[Cu+]<-N2(C3=CCCC=C3)C=CN(C)C=C2)cc1                        0.4450        
+CN1CCN(N)[C]1->[Cu+]<-N(C)c1cccnc1                                         0.4446        
+CCN(->[Cu+]<-[C]1N(C)CCN1C)c1ccc(F)cc1                                     0.4442        
+CN1C=CN(->[Cu+]<-N(C)c2cccnc2)(c2ccn(C)c2)C=C1                             0.4343        
+CC1=CC(N2CCN(C)[C]2->[Cu+]<-N(C)c2cc(C)nc(N(C)C)c2)=CC1                    0.4294        
+C1=CSC=C(N2(->[Cu+]<-Nc3cccnc3)C=CN(Cc3ccccc3)C=C2)C1                      0.4224        
+Cc1ccccc1CN(C)->[Cu+]<-N1(C)C=CC=CN1                                       0.4058        
+CNN1CCN(N)[C]1->[Cu+]<-Nc1cccnc1                                           0.3694        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 24                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CNN->[Cu+]<-N1C=CN(c2ccccc2)C=C1                                           0.5770        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCN1c1ccc(N)cc1)c1ccccc1                        0.5567        
+Cc1ccc(N->[Cu+]<-N(C)c2ccccc2)cc1                                          0.5424        
+CN(Nc1ccc(F)cc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.5213        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+CC1=CC(N2C=C(N3(->[Cu+]<-N(C)Nc4ccc(F)cc4)C=CN(C)C=C3)CC2)=CC1             0.5010        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1C=CN(C2=CN(C)(->[Cu+]<-N(C)c3cccnc3)C=CC2)C=C1                          0.4972        
+CN1C=CN(N2CCN(C)[C]2->[Cu+]<-N(C)Nc2ccc(F)cc2)C=C1                         0.4914        
+CNC1=C(N2(->[Cu+]<-N(C)c3cccnc3)C=CN(C)C=C2)C=CC1                          0.4765        
+CN1C=CN(C)(->[Cu+]<-N(C)c2cccnc2)C=C1                                      0.4571        
+CCN(->[Cu+]<-[C]1N(S)CCN1NC)c1ccc(F)cc1                                    0.4520        
+CNNc1ccc(N(C)->[Cu+]<-N2(C3=CCCC=C3)C=CN(C)C=C2)cc1                        0.4450        
+CN1CCN(N)[C]1->[Cu+]<-N(C)c1cccnc1                                         0.4446        
+CCN(->[Cu+]<-[C]1N(C)CCN1C)c1ccc(F)cc1                                     0.4442        
+CN1C=CN(->[Cu+]<-N(C)c2cccnc2)(c2ccn(C)c2)C=C1                             0.4343        
+CC1=CC(N2CCN(C)[C]2->[Cu+]<-N(C)c2cc(C)nc(N(C)C)c2)=CC1                    0.4294        
+C1=CSC=C(N2(->[Cu+]<-Nc3cccnc3)C=CN(Cc3ccccc3)C=C2)C1                      0.4224        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 25                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(N)c2ccc(F)cc2)C=C1                           0.8438        
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CNN->[Cu+]<-N1C=CN(c2ccccc2)C=C1                                           0.5770        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCN1c1ccc(N)cc1)c1ccccc1                        0.5567        
+Cc1ccc(N->[Cu+]<-N(C)c2ccccc2)cc1                                          0.5424        
+CN(Nc1ccc(F)cc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.5213        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+CC1=CC(N2C=C(N3(->[Cu+]<-N(C)Nc4ccc(F)cc4)C=CN(C)C=C3)CC2)=CC1             0.5010        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1C=CN(C2=CN(C)(->[Cu+]<-N(C)c3cccnc3)C=CC2)C=C1                          0.4972        
+CN1C=CN(N2CCN(C)[C]2->[Cu+]<-N(C)Nc2ccc(F)cc2)C=C1                         0.4914        
+CNC1=C(N2(->[Cu+]<-N(C)c3cccnc3)C=CN(C)C=C2)C=CC1                          0.4765        
+CN1C=CN(C)(->[Cu+]<-N(C)c2cccnc2)C=C1                                      0.4571        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C2=CC(NCl)=CCC2)cc(N(C)C)n1                 0.4550        
+CCN(->[Cu+]<-[C]1N(S)CCN1NC)c1ccc(F)cc1                                    0.4520        
+CNNc1ccc(N(C)->[Cu+]<-N2(C3=CCCC=C3)C=CN(C)C=C2)cc1                        0.4450        
+CN1CCN(N)[C]1->[Cu+]<-N(C)c1cccnc1                                         0.4446        
+CCN(->[Cu+]<-[C]1N(C)CCN1C)c1ccc(F)cc1                                     0.4442        
+CN1C=CN(->[Cu+]<-N(C)c2cccnc2)(c2ccn(C)c2)C=C1                             0.4343        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 26                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(N)c2ccc(F)cc2)C=C1                           0.8438        
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CN(=Cc1ccc(F)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6834        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-Nc2ccc(NN)cc2)C=C1                             0.5784        
+CNN->[Cu+]<-N1C=CN(c2ccccc2)C=C1                                           0.5770        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCN1c1ccc(N)cc1)c1ccccc1                        0.5567        
+Cc1ccc(N->[Cu+]<-N(C)c2ccccc2)cc1                                          0.5424        
+CN(Nc1ccc(F)cc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.5213        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+C=CN(C=CN->[Cu+]<-Nc1ccc(N)cc1)c1ccccc1                                    0.5025        
+CC1=CC(N2C=C(N3(->[Cu+]<-N(C)Nc4ccc(F)cc4)C=CN(C)C=C3)CC2)=CC1             0.5010        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1C=CN(C2=CN(C)(->[Cu+]<-N(C)c3cccnc3)C=CC2)C=C1                          0.4972        
+CN1C=CN(N2CCN(C)[C]2->[Cu+]<-N(C)Nc2ccc(F)cc2)C=C1                         0.4914        
+CNC1=C(N2(->[Cu+]<-N(C)c3cccnc3)C=CN(C)C=C2)C=CC1                          0.4765        
+CN1C=CN(C)(->[Cu+]<-N(C)c2cccnc2)C=C1                                      0.4571        
+Cc1cc(N(C)->[Cu+]<-[C]2N(C)CCN2C2=CC(NCl)=CCC2)cc(N(C)C)n1                 0.4550        
+CCN(->[Cu+]<-[C]1N(S)CCN1NC)c1ccc(F)cc1                                    0.4520        
+CNNc1ccc(N(C)->[Cu+]<-N2(C3=CCCC=C3)C=CN(C)C=C2)cc1                        0.4450        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 27                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(N)c2ccc(F)cc2)C=C1                           0.8438        
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccccc1                                  0.6836        
+CN(=Cc1ccc(F)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6834        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+CN(C)C=CN(C)(C)->[Cu+]<-Nc1ccc(NN)cc1                                      0.6347        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN(C)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                                         0.5958        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-Nc2ccc(NN)cc2)C=C1                             0.5784        
+CNN->[Cu+]<-N1C=CN(c2ccccc2)C=C1                                           0.5770        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCN1c1ccc(N)cc1)c1ccccc1                        0.5567        
+Cc1ccc(N->[Cu+]<-N(C)c2ccccc2)cc1                                          0.5424        
+CN(Nc1ccc(F)cc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.5213        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+C=CN(C=CN->[Cu+]<-Nc1ccc(N)cc1)c1ccccc1                                    0.5025        
+CC1=CC(N2C=C(N3(->[Cu+]<-N(C)Nc4ccc(F)cc4)C=CN(C)C=C3)CC2)=CC1             0.5010        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1C=CN(C2=CN(C)(->[Cu+]<-N(C)c3cccnc3)C=CC2)C=C1                          0.4972        
+CN1C=CN(N2CCN(C)[C]2->[Cu+]<-N(C)Nc2ccc(F)cc2)C=C1                         0.4914        
+CNC1=C(N2(->[Cu+]<-N(C)c3cccnc3)C=CN(C)C=C2)C=CC1                          0.4765        
+CN1C=CN(C)(->[Cu+]<-N(C)c2cccnc2)C=C1                                      0.4571        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 28                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(N)c2ccc(F)cc2)C=C1                           0.8438        
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccccc1                                  0.6836        
+CN(=Cc1ccc(F)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6834        
+CNc1ccc(N->[Cu+]<-[C]2N(c3ccccc3)CCN2c2ccc(N)cc2)cc1                       0.6787        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                0.6754        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+CN(C)C=CN(C)(C)->[Cu+]<-Nc1ccc(NN)cc1                                      0.6347        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN(C)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                                         0.5958        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-Nc2ccc(NN)cc2)C=C1                             0.5784        
+CNN->[Cu+]<-N1C=CN(c2ccccc2)C=C1                                           0.5770        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCN1c1ccc(N)cc1)c1ccccc1                        0.5567        
+Cc1ccc(N->[Cu+]<-N(C)c2ccccc2)cc1                                          0.5424        
+CN(Nc1ccc(F)cc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.5213        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+C=CN(C=CN->[Cu+]<-Nc1ccc(N)cc1)c1ccccc1                                    0.5025        
+CC1=CC(N2C=C(N3(->[Cu+]<-N(C)Nc4ccc(F)cc4)C=CN(C)C=C3)CC2)=CC1             0.5010        
+CN1C=CN(C)(->[Cu+]<-N(C=O)c2cccnc2)C=C1                                    0.5007        
+CN1C=CN(C2=CN(C)(->[Cu+]<-N(C)c3cccnc3)C=CC2)C=C1                          0.4972        
+CN1C=CN(N2CCN(C)[C]2->[Cu+]<-N(C)Nc2ccc(F)cc2)C=C1                         0.4914        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 29                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CNc1ccc(N->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                                 0.9070        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(N)c2ccc(F)cc2)C=C1                           0.8438        
+C1=CN(->[Cu+]<-Nc2ccccc2)C=CN1c1ccccc1                                     0.8011        
+Fc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7924        
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCCN1c1ccccc1)c1ccc(F)cc1                       0.6925        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccccc1                                  0.6836        
+CN(=Cc1ccc(F)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6834        
+CNc1ccc(N->[Cu+]<-[C]2N(c3ccccc3)CCN2c2ccc(N)cc2)cc1                       0.6787        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                0.6754        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+CN(C)C=CN(C)(C)->[Cu+]<-Nc1ccc(NN)cc1                                      0.6347        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN(C)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                                         0.5958        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-Nc2ccc(NN)cc2)C=C1                             0.5784        
+CNN->[Cu+]<-N1C=CN(c2ccccc2)C=C1                                           0.5770        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCN1c1ccc(N)cc1)c1ccccc1                        0.5567        
+Cc1ccc(N->[Cu+]<-N(C)c2ccccc2)cc1                                          0.5424        
+CN(Nc1ccc(F)cc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.5213        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+CN1C=CN(->[Cu+]<-Nc2cccnc2)(C2=CC=CC2)C=C1                                 0.5041        
+C=CN(C=CN->[Cu+]<-Nc1ccc(N)cc1)c1ccccc1                                    0.5025        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 30                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CNc1ccc(N->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                                 0.9070        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(N)c2ccc(F)cc2)C=C1                           0.8438        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(N)cc1                               0.8223        
+C1=CN(->[Cu+]<-Nc2ccccc2)C=CN1c1ccccc1                                     0.8011        
+Fc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7924        
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+Nc1ccc(NN(->[Cu+]<-N2C=CC(c3ccccc3)C=C2)c2cccnc2)cc1                       0.7127        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCCN1c1ccccc1)c1ccc(F)cc1                       0.6925        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccccc1                                  0.6836        
+CN(=Cc1ccc(F)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6834        
+CNc1ccc(N->[Cu+]<-[C]2N(c3ccccc3)CCN2c2ccc(N)cc2)cc1                       0.6787        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                0.6754        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+CN(C)C=CN(C)(C)->[Cu+]<-Nc1ccc(NN)cc1                                      0.6347        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN(C)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                                         0.5958        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-Nc2ccc(NN)cc2)C=C1                             0.5784        
+CNN->[Cu+]<-N1C=CN(c2ccccc2)C=C1                                           0.5770        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCN1c1ccc(N)cc1)c1ccccc1                        0.5567        
+Cc1ccc(N->[Cu+]<-N(C)c2ccccc2)cc1                                          0.5424        
+CN(Nc1ccc(F)cc1)->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1                           0.5213        
+CN1CCN(c2ccccc2)[C]1->[Cu+]<-N(C)c1ccccc1                                  0.5121        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 31                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CNc1ccc(N->[Cu+]<-Nc2ccc(N)cc2)cc1                                         0.9750        
+CNc1ccc(N->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                                 0.9070        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(N)c2ccc(F)cc2)C=C1                           0.8438        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(N)cc1                               0.8223        
+C1=CN(->[Cu+]<-Nc2ccccc2)C=CN1c1ccccc1                                     0.8011        
+Fc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7924        
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+Nc1ccc(NN(->[Cu+]<-N2C=CC(c3ccccc3)C=C2)c2cccnc2)cc1                       0.7127        
+CNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                 0.7089        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCCN1c1ccccc1)c1ccc(F)cc1                       0.6925        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccccc1                                  0.6836        
+CN(=Cc1ccc(F)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6834        
+CNc1ccc(N->[Cu+]<-[C]2N(c3ccccc3)CCN2c2ccc(N)cc2)cc1                       0.6787        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                0.6754        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+CN(C)C=CN(C)(C)->[Cu+]<-Nc1ccc(NN)cc1                                      0.6347        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN(C)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                                         0.5958        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-Nc2ccc(NN)cc2)C=C1                             0.5784        
+CNN->[Cu+]<-N1C=CN(c2ccccc2)C=C1                                           0.5770        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCN1c1ccc(N)cc1)c1ccccc1                        0.5567        
+Cc1ccc(N->[Cu+]<-N(C)c2ccccc2)cc1                                          0.5424        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 32                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CNc1ccc(N->[Cu+]<-Nc2ccc(N)cc2)cc1                                         0.9750        
+CNc1ccc(N->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                                 0.9070        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(N)c2ccc(F)cc2)C=C1                           0.8438        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(N)cc1                               0.8223        
+C1=CN(->[Cu+]<-Nc2ccccc2)C=CN1c1ccccc1                                     0.8011        
+Fc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7924        
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+Nc1ccc(NN(->[Cu+]<-N2C=CC(c3ccccc3)C=C2)c2cccnc2)cc1                       0.7127        
+CNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                 0.7089        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CN(->[Cu+]<-Nc1ccc(-c2ccccc2)cc1)c1ccc(F)cc1                               0.6947        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCCN1c1ccccc1)c1ccc(F)cc1                       0.6925        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccccc1                                  0.6836        
+CN(=Cc1ccc(F)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6834        
+CNc1ccc(N->[Cu+]<-[C]2N(c3ccccc3)CCN2c2ccc(N)cc2)cc1                       0.6787        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                0.6754        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                               0.6709        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+CN(C)C=CN(C)(C)->[Cu+]<-Nc1ccc(NN)cc1                                      0.6347        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN(C)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                                         0.5958        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-Nc2ccc(NN)cc2)C=C1                             0.5784        
+CNN->[Cu+]<-N1C=CN(c2ccccc2)C=C1                                           0.5770        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 33                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CNc1ccc(N->[Cu+]<-Nc2ccc(N)cc2)cc1                                         0.9750        
+CNc1ccc(N->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                                 0.9070        
+Cc1cc(-c2ccccc2)ccc1N->[Cu+]<-Nc1ccccc1                                    0.8541        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(N)c2ccc(F)cc2)C=C1                           0.8438        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(N)cc1                               0.8223        
+C1=CN(->[Cu+]<-Nc2ccccc2)C=CN1c1ccccc1                                     0.8011        
+Fc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7924        
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+Nc1ccc(NN(->[Cu+]<-N2C=CC(c3ccccc3)C=C2)c2cccnc2)cc1                       0.7127        
+CNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                 0.7089        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CN(->[Cu+]<-Nc1ccc(-c2ccccc2)cc1)c1ccc(F)cc1                               0.6947        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCCN1c1ccccc1)c1ccc(F)cc1                       0.6925        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccccc1                                  0.6836        
+CN(=Cc1ccc(F)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6834        
+CNc1ccc(N->[Cu+]<-[C]2N(c3ccccc3)CCN2c2ccc(N)cc2)cc1                       0.6787        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                0.6754        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                               0.6709        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+CNc1ccc(N->[Cu+]<-N(C)c2ccccc2)cc1                                         0.6607        
+CN(C)C=CN(C)(C)->[Cu+]<-Nc1ccc(NN)cc1                                      0.6347        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+CN(C)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                                         0.5958        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 34                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CNc1ccc(N->[Cu+]<-Nc2ccc(N)cc2)cc1                                         0.9750        
+CNc1ccc(N->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                                 0.9070        
+Cc1cc(-c2ccccc2)ccc1N->[Cu+]<-Nc1ccccc1                                    0.8541        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(N)c2ccc(F)cc2)C=C1                           0.8438        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-Nc2ccc(N)cc2)C=C1                              0.8379        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(N)cc1                               0.8223        
+C1=CN(->[Cu+]<-Nc2ccccc2)C=CN1c1ccccc1                                     0.8011        
+Fc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7924        
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+Nc1ccc(NN(->[Cu+]<-N2C=CC(c3ccccc3)C=C2)c2cccnc2)cc1                       0.7127        
+CNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                 0.7089        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CN(->[Cu+]<-Nc1ccc(-c2ccccc2)cc1)c1ccc(F)cc1                               0.6947        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCCN1c1ccccc1)c1ccc(F)cc1                       0.6925        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccccc1                                  0.6836        
+CN(=Cc1ccc(F)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6834        
+CNc1ccc(N->[Cu+]<-[C]2N(c3ccccc3)CCN2c2ccc(N)cc2)cc1                       0.6787        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                0.6754        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                               0.6709        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+CNc1ccc(N->[Cu+]<-N(C)c2ccccc2)cc1                                         0.6607        
+CN(C)C=CN(C)(C)->[Cu+]<-Nc1ccc(NN)cc1                                      0.6347        
+CN(->[Cu+]<-N1(C)C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                            0.6106        
+CC1=C(Cc2ccccc2)N(->[Cu+]<-N2(C)C=CN(c3ccccc3)C=C2)C=CN1C                  0.6024        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 35                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CNc1ccc(N->[Cu+]<-Nc2ccc(N)cc2)cc1                                         0.9750        
+CNc1ccc(N->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                                 0.9070        
+Cc1cc(-c2ccccc2)ccc1N->[Cu+]<-Nc1ccccc1                                    0.8541        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(N)c2ccc(F)cc2)C=C1                           0.8438        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-Nc2ccc(N)cc2)C=C1                              0.8379        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(N)cc1                               0.8223        
+C1=CN(->[Cu+]<-Nc2ccccc2)C=CN1c1ccccc1                                     0.8011        
+Fc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7924        
+CN(->[Cu+]<-[C]1C(c2ccccc2)=CCCN1c1ccccc1)c1ccc(F)cc1                      0.7433        
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+Nc1ccc(NN(->[Cu+]<-N2C=CC(c3ccccc3)C=C2)c2cccnc2)cc1                       0.7127        
+CNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                 0.7089        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CN(->[Cu+]<-Nc1ccc(-c2ccccc2)cc1)c1ccc(F)cc1                               0.6947        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCCN1c1ccccc1)c1ccc(F)cc1                       0.6925        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccccc1                                  0.6836        
+CN(=Cc1ccc(F)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6834        
+CNc1ccc(N->[Cu+]<-[C]2N(c3ccccc3)CCN2c2ccc(N)cc2)cc1                       0.6787        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                0.6754        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                               0.6709        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+CNc1ccc(N->[Cu+]<-N(C)c2ccccc2)cc1                                         0.6607        
+CN(->[Cu+]<-Nc1ccc(Br)cc1)c1ccc(F)cc1                                      0.6482        
+CN(C)C=CN(C)(C)->[Cu+]<-Nc1ccc(NN)cc1                                      0.6347        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 36                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CNc1ccc(N->[Cu+]<-Nc2ccc(N)cc2)cc1                                         0.9750        
+CNc1ccc(N->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                                 0.9070        
+CNc1ccc(N(C)->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                              0.8971        
+Cc1cc(-c2ccccc2)ccc1N->[Cu+]<-Nc1ccccc1                                    0.8541        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(N)c2ccc(F)cc2)C=C1                           0.8438        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-Nc2ccc(N)cc2)C=C1                              0.8379        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(N)cc1                               0.8223        
+C1=CN(->[Cu+]<-Nc2ccccc2)C=CN1c1ccccc1                                     0.8011        
+Fc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7924        
+CN(->[Cu+]<-[C]1C(c2ccccc2)=CCCN1c1ccccc1)c1ccc(F)cc1                      0.7433        
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+Nc1ccc(NN(->[Cu+]<-N2C=CC(c3ccccc3)C=C2)c2cccnc2)cc1                       0.7127        
+CNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                 0.7089        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CN(->[Cu+]<-Nc1ccc(-c2ccccc2)cc1)c1ccc(F)cc1                               0.6947        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCCN1c1ccccc1)c1ccc(F)cc1                       0.6925        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccccc1                                  0.6836        
+CN(=Cc1ccc(F)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6834        
+CNc1ccc(N->[Cu+]<-[C]2N(c3ccccc3)CCN2c2ccc(N)cc2)cc1                       0.6787        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                0.6754        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                               0.6709        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+CNc1ccc(N->[Cu+]<-N(C)c2ccccc2)cc1                                         0.6607        
+CN(->[Cu+]<-Nc1ccc(Br)cc1)c1ccc(F)cc1                                      0.6482        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 37                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CNc1ccc(N->[Cu+]<-Nc2ccc(N)cc2)cc1                                         0.9750        
+CNc1ccc(N->[Cu+]<-Nc2ccc(F)cc2)cc1                                         0.9720        
+CNc1ccc(N->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                                 0.9070        
+CNc1ccc(N(C)->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                              0.8971        
+CN(->[Cu+]<-Nc1ccc(Br)cc1)c1ccc(N)cc1F                                     0.8934        
+Cc1cc(-c2ccccc2)ccc1N->[Cu+]<-Nc1ccccc1                                    0.8541        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(N)c2ccc(F)cc2)C=C1                           0.8438        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-Nc2ccc(N)cc2)C=C1                              0.8379        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(N)cc1                               0.8223        
+C1=CN(->[Cu+]<-Nc2ccccc2)C=CN1c1ccccc1                                     0.8011        
+Fc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7924        
+CN(->[Cu+]<-[C]1C(c2ccccc2)=CCCN1c1ccccc1)c1ccc(F)cc1                      0.7433        
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+Nc1ccc(NN(->[Cu+]<-N2C=CC(c3ccccc3)C=C2)c2cccnc2)cc1                       0.7127        
+CNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                 0.7089        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CN(->[Cu+]<-Nc1ccc(-c2ccccc2)cc1)c1ccc(F)cc1                               0.6947        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCCN1c1ccccc1)c1ccc(F)cc1                       0.6925        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccccc1                                  0.6836        
+CN(=Cc1ccc(F)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6834        
+CNc1ccc(N->[Cu+]<-[C]2N(c3ccccc3)CCN2c2ccc(N)cc2)cc1                       0.6787        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                0.6754        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                               0.6709        
+CNN(Nc1ccc(C)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6655        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 38                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CNc1ccc(N->[Cu+]<-Nc2ccc(N)cc2)cc1                                         0.9750        
+CNc1ccc(N->[Cu+]<-Nc2ccc(F)cc2)cc1                                         0.9720        
+CNc1ccc(N->[Cu+]<-Nc2ccc(-c3ccccc3)c(Cl)c2)cc1                             0.9667        
+CNc1ccc(N->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                                 0.9070        
+CNc1ccc(N(C)->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                              0.8971        
+CN(->[Cu+]<-Nc1ccc(Br)cc1)c1ccc(N)cc1F                                     0.8934        
+Cc1cc(-c2ccccc2)ccc1N->[Cu+]<-Nc1ccccc1                                    0.8541        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(N)c2ccc(F)cc2)C=C1                           0.8438        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-Nc2ccc(N)cc2)C=C1                              0.8379        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(N)cc1                               0.8223        
+C1=CN(->[Cu+]<-Nc2ccccc2)C=CN1c1ccccc1                                     0.8011        
+Fc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7924        
+CN(->[Cu+]<-[C]1C(c2ccccc2)=CCCN1c1ccccc1)c1ccc(F)cc1                      0.7433        
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+Nc1ccc(NN(->[Cu+]<-N2C=CC(c3ccccc3)C=C2)c2cccnc2)cc1                       0.7127        
+CNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                 0.7089        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CN(->[Cu+]<-Nc1ccc(-c2ccccc2)cc1)c1ccc(F)cc1                               0.6947        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCCN1c1ccccc1)c1ccc(F)cc1                       0.6925        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccccc1                                  0.6836        
+CN(=Cc1ccc(F)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6834        
+CNc1ccc(N->[Cu+]<-[C]2N(c3ccccc3)CCN2c2ccc(N)cc2)cc1                       0.6787        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+CNNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                0.6754        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(F)cc1                               0.6709        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 39                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CNc1ccc(N->[Cu+]<-Nc2ccc(N)cc2)cc1                                         0.9750        
+CNc1ccc(N->[Cu+]<-Nc2ccc(F)cc2)cc1                                         0.9720        
+CNc1ccc(N->[Cu+]<-Nc2ccc(-c3ccccc3)c(Cl)c2)cc1                             0.9667        
+CNc1ccc(N->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                                 0.9070        
+CNc1ccc(N(C)->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                              0.8971        
+CN(->[Cu+]<-Nc1ccc(Br)cc1)c1ccc(N)cc1F                                     0.8934        
+CN(->[Cu+]<-Nc1ccc(N)cc1F)c1ccc(N)cc1                                      0.8772        
+Cc1cc(-c2ccccc2)ccc1N->[Cu+]<-Nc1ccccc1                                    0.8541        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(N)c2ccc(F)cc2)C=C1                           0.8438        
+CN(->[Cu+]<-Nc1ccc(N)cc1)c1ccccc1                                          0.8403        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-Nc2ccc(N)cc2)C=C1                              0.8379        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(N)cc1                               0.8223        
+C1=CN(->[Cu+]<-Nc2ccccc2)C=CN1c1ccccc1                                     0.8011        
+Fc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7924        
+CN(->[Cu+]<-[C]1C(c2ccccc2)=CCCN1c1ccccc1)c1ccc(F)cc1                      0.7433        
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+Nc1ccc(NN(->[Cu+]<-N2C=CC(c3ccccc3)C=C2)c2cccnc2)cc1                       0.7127        
+CNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                 0.7089        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CN(->[Cu+]<-Nc1ccc(-c2ccccc2)cc1)c1ccc(F)cc1                               0.6947        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCCN1c1ccccc1)c1ccc(F)cc1                       0.6925        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccccc1                                  0.6836        
+CN(=Cc1ccc(F)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6834        
+CNc1ccc(N->[Cu+]<-[C]2N(c3ccccc3)CCN2c2ccc(N)cc2)cc1                       0.6787        
+CNN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(C)cc1                              0.6774        
+=========================================================================================
+
+=========================================================================================
+                                      Generation 40                                      
+SMILES                                                                     Score         
+-----------------------------------------------------------------------------------------
+CNc1ccc(N->[Cu+]<-Nc2ccc(N)cc2)cc1                                         0.9750        
+CNc1ccc(N->[Cu+]<-Nc2ccc(F)cc2)cc1                                         0.9720        
+CNc1ccc(N->[Cu+]<-Nc2ccc(-c3ccccc3)c(Cl)c2)cc1                             0.9667        
+CNc1ccc(N(C)->[Cu+]<-Nc2ccc(-c3ccccc3)c(Cl)c2)cc1                          0.9419        
+CNc1ccc(N->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                                 0.9070        
+CNc1ccc(N(C)->[Cu+]<-Nc2ccc(-c3ccccc3)cc2)cc1                              0.8971        
+CN(->[Cu+]<-Nc1ccc(Br)cc1)c1ccc(N)cc1F                                     0.8934        
+CN(->[Cu+]<-Nc1ccc(N)cc1F)c1ccc(N)cc1                                      0.8772        
+Cc1cc(-c2ccccc2)ccc1N->[Cu+]<-Nc1ccccc1                                    0.8541        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-N(N)c2ccc(F)cc2)C=C1                           0.8438        
+CN(->[Cu+]<-Nc1ccc(N)cc1)c1ccccc1                                          0.8403        
+CN1C=CN(Cc2ccccc2)(->[Cu+]<-Nc2ccc(N)cc2)C=C1                              0.8379        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccc(N)cc1                               0.8223        
+CN(->[Cu+]<-Nc1ccc(-c2ccccc2)cc1)c1ccccc1                                  0.8162        
+C1=CN(->[Cu+]<-Nc2ccccc2)C=CN1c1ccccc1                                     0.8011        
+Fc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7924        
+CN(->[Cu+]<-[C]1C(c2ccccc2)=CCCN1c1ccccc1)c1ccc(F)cc1                      0.7433        
+Cc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                  0.7133        
+Nc1ccc(NN(->[Cu+]<-N2C=CC(c3ccccc3)C=C2)c2cccnc2)cc1                       0.7127        
+CNc1ccc(N->[Cu+]<-N2C=CN(c3ccccc3)C=C2)cc1                                 0.7089        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1cccnc1                                  0.7072        
+CN(->[Cu+]<-Nc1ccc(-c2ccccc2)cc1)c1ccc(F)cc1                               0.6947        
+CN(->[Cu+]<-[C]1N(c2ccccc2)CCCN1c1ccccc1)c1ccc(F)cc1                       0.6925        
+CN(->[Cu+]<-N1C=CN(c2ccccc2)C=C1)c1ccccc1                                  0.6836        
+CN(=Cc1ccc(F)cc1)->[Cu+]<-N1C=CN(c2ccccc2)C=C1                             0.6834        
+=========================================================================================
