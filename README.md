@@ -1,7 +1,7 @@
 Transition-Metal Catalyst Design for the Suzuki Reaction
 ========================================================
 
-Code to the paper **Title**[^1].\
+Code to the paper *Beyond Predefined Ligand Libraries: A Genetic Algorithm Approach for De Novo Discovery of Catalysts for the Suzuki Coupling Reactions*[^1].\
 The code is based on [`catalystGA`](https://github.com/juius/catalystGA.git) version 1.0.
 
 * [data](./data): Output data from GA runs
