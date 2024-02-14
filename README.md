@@ -76,4 +76,4 @@ export PYTHONPATH="$RDBASE"
 3. `pip install path/to/suzuki/`
 4. Install [`xtb`](https://xtb-docs.readthedocs.io/en/latest/setup.html) and [`orca`](https://www.orcasoftware.de/tutorials_orca/first_steps/install.html)
 
-[^1]: Paper
+[^1]: https://doi.org/10.26434/chemrxiv-2024-9xh38
